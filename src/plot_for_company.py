@@ -1,7 +1,6 @@
 import yfinance as yf
 import matplotlib.pyplot as plt
 import plotly.graph_objs as go
-
 def plot_interactive_stock_data(ticker_symbol, years):
     try:
         # Fetch stock data
