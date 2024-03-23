@@ -1,0 +1,572 @@
+company_names,company_code,Dividend_x,earnings_x,market_cap_x,Dividend_y,earnings_y,market_cap_y,operating_margin_x,p/e_ratio_x,operating_margin_y,p/e_ratio_y
+Vedanta,VEDL.NS,18.37%,$3.51 B,$12.05 B,18.37%,$3.51 B,$12.05 B,15.18%,9.53,15.18%,9.53
+Hindustan Zinc,HINDZINC.NS,13.36%,$1.44 B,$14.97 B,13.36%,$1.44 B,$14.97 B,44.09%,14.6,44.09%,14.6
+Heidelbergcement India,HEIDELBERG.NS,7.05%,$29.36 M,$0.53 B,7.05%,$29.36 M,$0.53 B,10.28%,44.6,10.28%,44.6
+Tech Mahindra,TECHM.NS,5.96%,$0.50 B,$14.79 B,5.96%,$0.50 B,$14.79 B,11.79%,31.2,11.79%,31.2
+Coal India,COALINDIA.NS,5.70%,$4.67 B,$31.87 B,5.70%,$4.67 B,$31.87 B,29.13%,9.64,29.13%,9.64
+Sanofi India Limited,SANOFI.NS,5.55%,$0.10 B,$2.10 B,5.55%,$0.10 B,$2.10 B,28.70%,29.8,28.70%,29.8
+GAIL,GAIL.NS,5.44%,$1.10 B,$13.70 B,5.44%,$1.10 B,$13.70 B,5.23%,23.8,5.23%,23.8
+Tamil Nadu Newsprint and Papers Limited,TNPL.NS,5.15%,$76.99 M,$0.21 B,5.15%,$76.99 M,$0.21 B,8.82%,5.28,8.82%,5.28
+Accelya,ACCELYA.NS,4.91%,$21.23 M,$0.30 B,4.91%,$21.23 M,$0.30 B,35.83%,20.4,35.83%,20.4
+Indian Oil,IOC.NS,4.89%,$5.39 B,$27.23 B,4.89%,$5.39 B,$27.23 B,1.76%,9.67,1.76%,9.67
+Geojit Financial Services,GEOJITFSL.NS,4.65%,$18.78 M,$0.19 B,4.65%,$18.78 M,$0.19 B,33.46%,13.7,33.46%,13.7
+National Aluminum & Alloy,NATIONALUM.NS,4.49%,$0.23 B,$3.27 B,4.49%,$0.23 B,$3.27 B,12.94%,21.8,12.94%,21.8
+Powergrid Corporation of India,POWERGRID.NS,4.43%,$3.30 B,$30.70 B,4.43%,$3.30 B,$30.70 B,60.13%,15.1,60.13%,15.1
+Bank of Maharashtra,MAHABANK.NS,4.43%,$0.48 B,$5.07 B,4.43%,$0.48 B,$5.07 B,35.30%,11.7,35.30%,11.7
+Gulf Oil Lubricants,GULFOILLUB.NS,4.35%,$46.13 M,$0.55 B,4.35%,$46.13 M,$0.55 B,11.08%,17.3,11.08%,17.3
+PTC India,PTC.NS,4.33%,$92.53 M,$0.65 B,4.33%,$92.53 M,$0.65 B,4.88%,11.6,4.88%,11.6
+General Insurance Corporation of India,GICRE.NS,4.28%,$0.95 B,$7.04 B,4.28%,$0.95 B,$7.04 B,18.05%,8.19,18.05%,8.19
+Bharat Petroleum,BPCL.NS,4.28%,$4.65 B,$15.35 B,4.28%,$4.65 B,$15.35 B,5.25%,4.51,5.25%,4.51
+National Mineral Development Corporation,NMDC.NS,4.16%,$1.08 B,$7.14 B,4.16%,$1.08 B,$7.14 B,43.70%,10.4,43.70%,10.4
+HCL Technologies,HCLTECH.NS,4.03%,$2.46 B,$50.51 B,4.03%,$2.46 B,$50.51 B,18.69%,1.25,18.69%,1.25
+Oil & Natural Gas,ONGC.NS,3.92%,$9.18 B,$39.65 B,3.92%,$9.18 B,$39.65 B,7.75%,8.68,7.75%,8.68
+Petronet LNG,PETRONET.NS,3.89%,$0.62 B,$4.65 B,3.89%,$0.62 B,$4.65 B,7.37%,11.1,7.37%,11.1
+Kuantum Papers,KUANTUM.NS,3.88%,$34.9 M,$0.16 B,3.88%,$34.9 M,$0.16 B,15.58%,5.58,15.58%,5.58
+Piramal Enterprises,PEL.NS,3.70%,$8.08 M,$2.31 B,3.70%,$8.08 M,$2.31 B,28.32%,8.69,28.32%,8.69
+Redington India,REDINGTON.NS,3.58%,$0.24 B,$1.92 B,3.58%,$0.24 B,$1.92 B,2.65%,11.8,2.65%,11.8
+Indraprastha Gas,IGL.NS,3.41%,$0.30 B,$3.46 B,3.41%,$0.30 B,$3.46 B,14.55%,17.8,14.55%,17.8
+Rane Brake Lining,RBL.NS,3.40%,$5.94 M,$69.64 M,3.40%,$5.94 M,$69.64 M,7.58%,17.2,7.58%,17.2
+Gujarat Alkalies and Chemicals,GUJALKALI.NS,3.40%,-$9.95 M,$0.61 B,3.40%,-$9.95 M,$0.61 B,19.83%,31.3,19.83%,31.3
+Tide Water Oil,TIDEWATER.NS,3.35%,$21.31 M,$0.29 B,3.35%,$21.31 M,$0.29 B,8.48%,21.2,8.48%,21.2
+Bajaj Auto,BAJAJ-AUTO.NS,3.22%,$1.16 B,$30.33 B,3.22%,$1.16 B,$30.33 B,22.53%,35.9,22.53%,35.9
+Monte Carlo Fashions,MONTECARLO.NS,3.20%,$19.22 M,$0.15 B,3.20%,$19.22 M,$0.15 B,18.26%,10.3,18.26%,10.3
+Hindustan Petroleum,HINDPETRO.NS,3.19%,$2.96 B,$8.04 B,3.19%,$2.96 B,$8.04 B,3.05%,7.95,3.05%,7.95
+National Fertilizers,NFL.NS,3.18%,-$51.46 M,$0.52 B,3.18%,-$51.46 M,$0.52 B,5.69%,20.7,5.69%,20.7
+Gujarat Mineral Development,GMDCLTD.NS,3.18%,$0.14 B,$1.36 B,3.18%,$0.14 B,$1.36 B,40.67%,11.3,40.67%,11.3
+Chennai Petroleum,CHENNPETRO.NS,3.14%,$0.54 B,$1.56 B,3.14%,$0.54 B,$1.56 B,6.81%,4.40,6.81%,4.40
+MPS Limited,MPSLTD.NS,3.13%,$19.97 M,$0.33 B,3.13%,$19.97 M,$0.33 B,27.80%,22.3,27.80%,22.3
+Puravankara,PURVA.NS,3.08%,$57.57 M,$0.61 B,3.08%,$57.57 M,$0.61 B,33.24%,343,33.24%,343
+Shriram Transport Finance,SHRIRAMFIN.NS,3.05%,$1.09 B,$10.48 B,3.05%,$1.09 B,$10.48 B,50.35%,13.1,50.35%,13.1
+Power Finance Corp,PFC.NS,3.02%,$3.84 B,$15.47 B,3.02%,$3.84 B,$15.47 B,95.97%,6.91,95.97%,6.91
+RITES,RITES.NS,2.97%,$86.68 M,$1.88 B,2.97%,$86.68 M,$1.88 B,29.18%,30.2,29.18%,30.2
+Rashtriya Chemicals and Fertilizers,RCF.NS,2.89%,$61.55 M,$0.86 B,2.89%,$61.55 M,$0.86 B,11.96%,9.55,11.96%,9.55
+PTC Financial Services,PFS.NS,2.88%,$29.19 M,$0.28 B,2.88%,$29.19 M,$0.28 B,27.53%,11.0,27.53%,11.0
+Sun TV Network,SUNTV.NS,2.75%,$0.31 B,$2.76 B,2.75%,$0.31 B,$2.76 B,60.64%,12.8,60.64%,12.8
+Alembic Limited,ALEMBICLTD.NS,2.71%,$9.92 M,$0.25 B,2.71%,$9.92 M,$0.25 B,88.66%,8.13,88.66%,8.13
+Bayer Crop Science,BAYERCROP.NS,2.68%,$0.12 B,$2.73 B,2.68%,$0.12 B,$2.73 B,19.45%,28.7,19.45%,28.7
+GTPL Hathway,GTPL.NS,2.48%,$14.24 M,$0.23 B,2.48%,$14.24 M,$0.23 B,6.35%,18.9,6.35%,18.9
+India Motor Parts and Accessories,IMPAL.NS,2.46%,$11.72 M,$0.14 B,2.46%,$11.72 M,$0.14 B,11.76%,15.0,11.76%,15.0
+Siyaram Silk Mills,SIYSIL.NS,2.45%,$34.68 M,$0.24 B,2.45%,$34.68 M,$0.24 B,16.04%,9.92,16.04%,9.92
+Rural Electrification Corp,RECLTD.NS,2.42%,$2.01 B,$14.52 B,2.42%,$2.01 B,$14.52 B,98.73%,9.25,98.73%,9.25
+Tata Steel,TATASTEEL.NS,2.40%,$0.95 B,$22.69 B,2.40%,$0.95 B,$22.69 B,6.30%,-30.3,6.30%,-30.3
+Infosys,INFY,2.36%,$4.04 B,$75.04 B,2.36%,$4.04 B,$75.04 B,22.15%,25.3,22.15%,25.3
+I.g. Petrochemicals,IGPL.NS,2.35%,$14.64 M,$0.15 B,2.35%,$14.64 M,$0.15 B,14.71%,8.39,14.71%,8.39
+Orient Paper Mills,ORIENTPPR.NS,2.33%,$15.4 M,$0.10 B,2.33%,$15.4 M,$0.10 B,9.18%,7.02,9.18%,7.02
+NTPC Limited,NTPC.NS,2.32%,$4.57 B,$37.73 B,2.32%,$4.57 B,$37.73 B,20.37%,17.8,20.37%,17.8
+Edelweiss Financial Services,EDELWEISS.NS,2.30%,$44.52 M,$0.69 B,2.30%,$44.52 M,$0.69 B,7.82%,15.8,7.82%,15.8
+HEG,HEG.NS,2.23%,$57.5 M,$0.87 B,2.23%,$57.5 M,$0.87 B,28.86%,14.2,28.86%,14.2
+NHPC Limited,NHPC.NS,2.21%,$0.53 B,$10.22 B,2.21%,$0.53 B,$10.22 B,48.79%,21.4,48.79%,21.4
+PCBL Limited,PCBL.NS,2.21%,$92.69 M,$1.18 B,2.21%,$92.69 M,$1.18 B,10.42%,21.8,10.42%,21.8
+UPL,UPL.NS,2.21%,-$85.1 M,$4.22 B,2.21%,-$85.1 M,$4.22 B,7.78%,19.6,7.78%,19.6
+Chambal Fertilisers,CHAMBLFERT.NS,2.19%,$0.21 B,$1.65 B,2.19%,$0.21 B,$1.65 B,6.34%,13.7,6.34%,13.7
+Karnataka Bank,KTKBANK.NS,2.16%,$0.20 B,$0.97 B,2.16%,$0.20 B,$0.97 B,28.83%,5.32,28.83%,5.32
+Bank of Baroda,BANKBARODA.NS,2.16%,$2.45 B,$16.09 B,2.16%,$2.45 B,$16.09 B,35.68%,7.51,35.68%,7.51
+ITC,ITC.NS,2.15%,$3.29 B,$64.07 B,2.15%,$3.29 B,$64.07 B,36.88%,25.7,36.88%,25.7
+Canara Bank,CANBK.NS,2.14%,$2.33 B,$12.45 B,2.14%,$2.33 B,$12.45 B,26.53%,7.30,26.53%,7.30
+Indian Metals & Ferro Alloys,IMFA.NS,2.13%,$66.29 M,$0.39 B,2.13%,$66.29 M,$0.39 B,14.17%,16.0,14.17%,16.0
+Mahanagar Gas,MGL.NS,2.13%,$0.20 B,$1.58 B,2.13%,$0.20 B,$1.58 B,16.75%,11.3,16.75%,11.3
+Hudco,HUDCO.NS,2.13%,$0.33 B,$4.39 B,2.13%,$0.33 B,$4.39 B,0.00%,20.7,0.00%,20.7
+Southern Petrochemical Industries Corp,SPIC.NS,2.08%,$33.55 M,$0.17 B,2.08%,$33.55 M,$0.17 B,33.75%,5.11,33.75%,5.11
+Mphasis,MPHASIS.NS,2.06%,$0.26 B,$5.40 B,2.06%,$0.26 B,$5.40 B,16.60%,28.4,16.60%,28.4
+Union Bank of India,UNIONBANK.NS,2.05%,$2.43 B,$13.53 B,2.05%,$2.43 B,$13.53 B,29.38%,8.42,29.38%,8.42
+Ingersoll Rand India,INGERRAND.NS,2.01%,$36.77 M,$1.34 B,2.01%,$36.77 M,$1.34 B,18.68%,53.4,18.68%,53.4
+Gateway Distriparks,GATEWAY.NS,2.00%,$38.99 M,$0.61 B,2.00%,$38.99 M,$0.61 B,20.90%,20.1,20.90%,20.1
+Steel Authority of India,SAIL.NS,1.95%,$0.50 B,$6.42 B,1.95%,$0.50 B,$6.42 B,2.80%,33.4,2.80%,33.4
+Marico,MARICO.NS,1.91%,$0.21 B,$7.70 B,1.91%,$0.21 B,$7.70 B,17.85%,50.0,17.85%,50.0
+Emami,EMAMILTD.NS,1.88%,$92.99 M,$2.21 B,1.88%,$92.99 M,$2.21 B,21.24%,26.5,21.24%,26.5
+Aptech,APTECHT.NS,1.87%,$8.93 M,$0.16 B,1.87%,$8.93 M,$0.16 B,16.26%,18.1,16.26%,18.1
+"Sumitomo Chemical
+India",SUMICHEM.NS,1.80%,$57.58 M,$2.19 B,1.80%,$57.58 M,$2.19 B,18.78%,33.7,18.78%,33.7
+Hindustan Unilever,HINDUNILVR.NS,1.79%,$1.72 B,$63.48 B,1.79%,$1.72 B,$63.48 B,22.72%,50.5,22.72%,50.5
+Indian Bank,INDIANB.NS,1.76%,$1.14 B,$7.89 B,1.76%,$1.14 B,$7.89 B,23.99%,8.83,23.99%,8.83
+Automotive Axles,AUTOAXLES.NS,1.74%,$28.07 M,$0.33 B,1.74%,$28.07 M,$0.33 B,9.39%,16.3,9.39%,16.3
+Tata Chemicals,TATACHEM.NS,1.70%,$0.33 B,$3.19 B,1.70%,$0.33 B,$3.19 B,18.46%,11.5,18.46%,11.5
+New India Assurance,NIACL.NS,1.69%,$0.13 B,$4.58 B,1.69%,$0.13 B,$4.58 B,3.08%,31.9,3.08%,31.9
+Sundaram Finance,SUNDARMHLD.NS,1.68%,$7.6 M,$0.51 B,1.68%,$7.6 M,$0.51 B,48.12%,14.6,48.12%,14.6
+West Coast Paper Mills,WSTCSTPAPR.NS,1.68%,$0.16 B,$0.47 B,1.68%,$0.16 B,$0.47 B,26.40%,3.90,26.40%,3.90
+Bajaj Holdings & Investment,BAJAJHLDNG.NS,1.67%,$0.74 B,$11.19 B,1.67%,$0.74 B,$11.19 B,96.89%,16.3,96.89%,16.3
+NLC India,NLCINDIA.NS,1.66%,$0.32 B,$3.55 B,1.66%,$0.32 B,$3.55 B,14.53%,15.0,14.53%,15.0
+Procter & Gamble India,PGHH.NS,1.65%,$0.11 B,$6.46 B,1.65%,$0.11 B,$6.46 B,18.35%,71.7,18.35%,71.7
+Vaibhav Global,VAIBHAVGBL.NS,1.62%,$23.03 M,$0.74 B,1.62%,$23.03 M,$0.74 B,5.31%,50.1,5.31%,50.1
+BOSCH India,BOSCHLTD.NS,1.62%,$0.37 B,$10.65 B,1.62%,$0.37 B,$10.65 B,12.97%,58.3,12.97%,58.3
+Colgate-Palmolive India,COLPAL.NS,1.61%,$0.20 B,$8.82 B,1.61%,$0.20 B,$8.82 B,28.22%,61.6,28.22%,61.6
+MSTC Limited,MSTCLTD.NS,1.61%,$41.72 M,$0.72 B,1.61%,$41.72 M,$0.72 B,0.00%,25.0,0.00%,25.0
+India Nippon Electricals,INDNIPPON.NS,1.59%,$8 M,$0.17 B,1.59%,$8 M,$0.17 B,10.43%,26.8,10.43%,26.8
+Rane Holdings,RANEHOLDIN.NS,1.59%,$12.54 M,$0.18 B,1.59%,$12.54 M,$0.18 B,4.30%,16.2,4.30%,16.2
+Sasken Technologies,SASKEN.NS,1.59%,$11.36 M,$0.27 B,1.59%,$11.36 M,$0.27 B,27.68%,25.7,27.68%,25.7
+Ashok Leyland,ASHOKLEY.NS,1.56%,$0.79 B,$5.85 B,1.56%,$0.79 B,$5.85 B,12.02%,27.2,12.02%,27.2
+Excel Industries,EXCELINDUS.NS,1.55%,$2.45 M,$0.11 B,1.55%,$2.45 M,$0.11 B,13.27%,19.2,13.27%,19.2
+Muthoot Finance,MUTHOOTFIN.NS,1.54%,$0.69 B,$6.84 B,1.54%,$0.69 B,$6.84 B,63.39%,14.9,63.39%,14.9
+Engineers India,ENGINERSIN.NS,1.54%,$68.56 M,$1.32 B,1.54%,$68.56 M,$1.32 B,11.84%,27.5,11.84%,27.5
+Oil India,OIL.NS,1.53%,$1.05 B,$7.55 B,1.53%,$1.05 B,$7.55 B,33.68%,8.62,33.68%,8.62
+State Bank of India,SBIN.NS,1.53%,$10.39 B,$79.79 B,1.53%,$10.39 B,$79.79 B,29.61%,9.81,29.61%,9.81
+Tata Consultancy Services,TCS.NS,1.52%,$7.42 B,$169.43 B,1.52%,$7.42 B,$169.43 B,25.79%,32.3,25.79%,32.3
+Britannia Industries,BRITANNIA.NS,1.51%,$0.37 B,$14.03 B,1.51%,$0.37 B,$14.03 B,20.68%,45.3,20.68%,45.3
+Hyderabad Industries Limited,HIL.NS,1.49%,$2.96 M,$0.24 B,1.49%,$2.96 M,$0.24 B,5.45%,19.9,5.45%,19.9
+Bank of India,BANKINDIA.NS,1.49%,$1.14 B,$7.40 B,1.49%,$1.14 B,$7.40 B,22.01%,14.1,22.01%,14.1
+Mangalore Chemicals and Fertilizers,MANGCHEFER.NS,1.49%,$39.36 M,$0.14 B,1.49%,$39.36 M,$0.14 B,2.76%,4.57,2.76%,4.57
+Indian Energy Exchange,IEX.NS,1.48%,$54.82 M,$1.44 B,1.48%,$54.82 M,$1.44 B,98.56%,36.6,98.56%,36.6
+SJVN,SJVN.NS,1.48%,$0.18 B,$5.78 B,1.48%,$0.18 B,$5.78 B,70.07%,42.3,70.07%,42.3
+MOIL,MOIL.NS,1.46%,$42.6 M,$0.69 B,1.46%,$42.6 M,$0.69 B,29.96%,24.8,29.96%,24.8
+East India Distilleries Parry,EIDPARRY.NS,1.45%,$0.30 B,$1.20 B,1.45%,$0.30 B,$1.20 B,11.57%,12.5,11.57%,12.5
+LIC Housing Finance,LICHSGFIN.NS,1.45%,$0.73 B,$3.92 B,1.45%,$0.73 B,$3.92 B,57.82%,7.74,57.82%,7.74
+Cyient,CYIENT.NS,1.42%,$0.11 B,$2.58 B,1.42%,$0.11 B,$2.58 B,12.81%,32.4,12.81%,32.4
+Graphite India,GRAPHITE.NS,1.38%,$0.12 B,$1.44 B,1.38%,$0.12 B,$1.44 B,13.36%,82.7,13.36%,82.7
+CARE's Ratings,CARERATING.NS,1.35%,$17.69 M,$0.40 B,1.35%,$17.69 M,$0.40 B,44.85%,37.1,44.85%,37.1
+Coforge,COFORGE.NS,1.34%,$0.12 B,$4.10 B,1.34%,$0.12 B,$4.10 B,12.35%,50.2,12.35%,50.2
+Dr. Reddy's,RDY,1.34%,$0.85 B,$12.40 B,1.34%,$0.85 B,$12.40 B,24.69%,19.6,24.69%,19.6
+Kalpataru Power Transmission,KALPATPOWR.NS,1.34%,$0.13 B,$1.02 B,1.34%,$0.13 B,$1.02 B,6.52%,13.2,6.52%,13.2
+Hero MotoCorp,HEROMOTOCO.NS,1.33%,$0.59 B,$11.21 B,1.33%,$0.59 B,$11.21 B,11.73%,27.6,11.73%,27.6
+Amara Raja Batteries,AMARAJABAT.NS,1.33%,$0.13 B,$1.24 B,1.33%,$0.13 B,$1.24 B,8.97%,13.1,8.97%,13.1
+Torrent Power,TORNTPOWER.NS,1.29%,$0.42 B,$7.39 B,1.29%,$0.42 B,$7.39 B,14.86%,27.7,14.86%,27.7
+Hindustan Aeronautics,HAL.NS,1.27%,$0.88 B,$25.39 B,1.27%,$0.88 B,$25.39 B,24.38%,23.3,24.38%,23.3
+Container Corporation of India,CONCOR.NS,1.27%,$0.20 B,$6.33 B,1.27%,$0.20 B,$6.33 B,18.90%,44.5,18.90%,44.5
+Gujarat Gas,GUJGASLTD.NS,1.26%,$0.18 B,$4.35 B,1.26%,$0.18 B,$4.35 B,11.98%,28.8,11.98%,28.8
+Apex Frozen Foods,APEX.NS,1.26%,$2.06 M,$75.99 M,1.26%,$2.06 M,$75.99 M,6.37%,29.3,6.37%,29.3
+HDFC Bank,HDB,1.25%,$9.24 B,$137.73 B,1.25%,$9.24 B,$137.73 B,49.75%,18.7,49.75%,18.7
+Rupa Company,RUPA.NS,1.25%,$10.36 M,$0.23 B,1.25%,$10.36 M,$0.23 B,9.56%,41.7,9.56%,41.7
+IDBI Bank,IDBI.NS,1.25%,$0.74 B,$10.47 B,1.25%,$0.74 B,$10.47 B,34.96%,18.0,34.96%,18.0
+Nestlé India,NESTLEIND.NS,1.23%,$0.50 B,$29.71 B,1.23%,$0.50 B,$29.71 B,20.98%,8.27,20.98%,8.27
+Mahindra Logistics,MAHLOG.NS,1.23%,$5.56 M,$0.35 B,1.23%,$5.56 M,$0.35 B,1.67%,-123,1.67%,-123
+TANLA,TANLA.NS,1.20%,$82.55 M,$1.36 B,1.20%,$82.55 M,$1.36 B,17.69%,21.8,17.69%,21.8
+IIFL Finance,IIFL.NS,1.20%,$0.31 B,$1.52 B,1.20%,$0.31 B,$1.52 B,49.08%,7.50,49.08%,7.50
+Kalyani Steels,KSL.NS,1.20%,$45.12 M,$0.46 B,1.20%,$45.12 M,$0.46 B,0.00%,18.8,0.00%,18.8
+Torrent Pharmaceuticals,TORNTPHARM.NS,1.18%,$0.30 B,$10.37 B,1.18%,$0.30 B,$10.37 B,22.91%,63.8,22.91%,63.8
+Multi Commodity Exchange,MCX.NS,1.17%,$3.68 M,$2.03 B,1.17%,$3.68 M,$2.03 B,43.80%,109,43.80%,109
+LTIMindtree,LTIM.NS,1.17%,$0.75 B,$17.73 B,1.17%,$0.75 B,$17.73 B,17.30%,34.2,17.30%,34.2
+Lumax Industries,LUMAXIND.NS,1.16%,$16.97 M,$0.25 B,1.16%,$16.97 M,$0.25 B,6.69%,20.2,6.69%,20.2
+Dr Lal PathLabs,LALPATHLAB.NS,1.16%,$60.55 M,$2.12 B,1.16%,$60.55 M,$2.12 B,20.28%,56.8,20.28%,56.8
+Nilkamal,NILKAMAL.NS,1.14%,$21.46 M,$0.31 B,1.14%,$21.46 M,$0.31 B,4.57%,18.9,4.57%,18.9
+Karur Vysya Bank,KARURVYSYA.NS,1.14%,$0.23 B,$1.75 B,1.14%,$0.23 B,$1.75 B,31.24%,10.3,31.24%,10.3
+Crompton Greaves Consumer Electricals,CROMPTON.NS,1.12%,$69.6 M,$2.07 B,1.12%,$69.6 M,$2.07 B,8.61%,37.1,8.61%,37.1
+Indian Railway Finance,IRFC.NS,1.11%,$1.35 B,$22.05 B,1.11%,$1.35 B,$22.05 B,26.33%,28.8,26.33%,28.8
+Tata Communications,TATACOMM.NS,1.11%,$0.22 B,$6.56 B,1.11%,$0.22 B,$6.56 B,0.00%,51.9,0.00%,51.9
+Cummins India,CUMMINSIND.NS,1.08%,$0.23 B,$9.74 B,1.08%,$0.23 B,$9.74 B,21.82%,57.4,21.82%,57.4
+South Indian Bank,SOUTHBANK.NS,1.07%,$0.20 B,$0.78 B,1.07%,$0.20 B,$0.78 B,23.94%,6.77,23.94%,6.77
+Dabur,DABUR.NS,1.05%,$0.29 B,$11.08 B,1.05%,$0.29 B,$11.08 B,19.75%,52.4,19.75%,52.4
+Delta Corp,DELTACORP.NS,1.04%,$37.07 M,$0.38 B,1.04%,$37.07 M,$0.38 B,33.20%,11.8,33.20%,11.8
+ESAB India,ESABINDIA.NS,1.02%,$26.26 M,$0.95 B,1.02%,$26.26 M,$0.95 B,14.78%,51.2,14.78%,51.2
+Vedant Fashions,MANYAVAR.NS,1.01%,$66.05 M,$2.71 B,1.01%,$66.05 M,$2.71 B,42.01%,53.9,42.01%,53.9
+Natco Pharma,NATCOPHARM.NS,1.00%,$0.18 B,$2.04 B,1.00%,$0.18 B,$2.04 B,21.21%,21.0,21.21%,21.0
+Cosmo First,COSMOFIRST.NS,0.99%,$18.61 M,$0.16 B,0.99%,$18.61 M,$0.16 B,14.18%,8.14,14.18%,8.14
+CRISIL,CRISIL.NS,0.99%,$0.10 B,$4.38 B,0.99%,$0.10 B,$4.38 B,26.22%,59.6,26.22%,59.6
+Trident,TRIDENT.NS,0.99%,$84.66 M,$2.33 B,0.99%,$84.66 M,$2.33 B,10.40%,44.7,10.40%,44.7
+Mahindra CIE,MAHINDCIE.NS,0.98%,$0.13 B,$2.33 B,0.98%,$0.13 B,$2.33 B,14.54%,20.1,14.54%,20.1
+Bata India,BATAINDIA.NS,0.98%,$56.86 M,$2.12 B,0.98%,$56.86 M,$2.12 B,15.13%,56.4,15.13%,56.4
+Bharat Electronics,BEL.NS,0.97%,$0.57 B,$17.28 B,0.97%,$0.57 B,$17.28 B,22.62%,41.8,22.62%,41.8
+India Glycols,INDIAGLYCO.NS,0.95%,$25.83 M,$0.29 B,0.95%,$25.83 M,$0.29 B,5.77%,14.7,5.77%,14.7
+Eicher Motors,EICHERMOT.NS,0.95%,$0.60 B,$13.07 B,0.95%,$0.60 B,$13.07 B,28.80%,32.9,28.80%,32.9
+IndusInd Bank,INDUSINDBK.NS,0.95%,$1.40 B,$14.09 B,0.95%,$1.40 B,$14.09 B,39.54%,13.7,39.54%,13.7
+Alkem Laboratories,ALKEM.NS,0.94%,$0.23 B,$6.87 B,0.94%,$0.23 B,$6.87 B,13.48%,49.6,13.48%,49.6
+SKF India,SKFINDIA.NS,0.94%,$82.06 M,$2.52 B,0.94%,$82.06 M,$2.52 B,17.40%,37.9,17.40%,37.9
+Asian Paints,ASIANPAINT.NS,0.94%,$0.89 B,$32.63 B,0.94%,$0.89 B,$32.63 B,18.27%,53.0,18.27%,53.0
+Gabriel India,GABRIEL.NS,0.94%,$27.79 M,$0.57 B,0.94%,$27.79 M,$0.57 B,6.01%,33.6,6.01%,33.6
+Zensar,ZENSARTECH.NS,0.94%,$97.84 M,$1.60 B,0.94%,$97.84 M,$1.60 B,9.65%,25.3,9.65%,25.3
+Mishra Dhatu Nigam,MIDHANI.NS,0.91%,$23.26 M,$0.83 B,0.91%,$23.26 M,$0.83 B,31.29%,43.4,31.29%,43.4
+Page Industries,PAGEIND.NS,0.91%,$92.67 M,$4.60 B,0.91%,$92.67 M,$4.60 B,15.76%,71.8,15.76%,71.8
+PDS Multinational,PDSL.NS,0.91%,$42.97 M,$0.75 B,0.91%,$42.97 M,$0.75 B,3.94%,27.6,3.94%,27.6
+CDSL,CDSL.NS,0.91%,$56.74 M,$2.23 B,0.91%,$56.74 M,$2.23 B,65.78%,57.2,65.78%,57.2
+Electrosteel Castings,ELECTCAST.NS,0.90%,$0.11 B,$1.21 B,0.90%,$0.11 B,$1.21 B,9.56%,31.1,9.56%,31.1
+Bajaj Finance,BAJFINANCE.NS,0.90%,$2.23 B,$50.02 B,0.90%,$2.23 B,$50.02 B,57.74%,30.7,57.74%,30.7
+Surya Roshni,SURYAROSNI.NS,0.90%,$65.9 M,$0.66 B,0.90%,$65.9 M,$0.66 B,6.30%,10.7,6.30%,10.7
+Jubilant Pharmova,JUBLPHARMA.NS,0.88%,$16.48 M,$1.07 B,0.88%,$16.48 M,$1.07 B,3.62%,-199,3.62%,-199
+Orient Cement,ORIENTCEM.NS,0.88%,$36.92 M,$0.50 B,0.88%,$36.92 M,$0.50 B,7.82%,33.2,7.82%,33.2
+Transport Corporation of India,TCI.NS,0.88%,$47.16 M,$0.75 B,0.88%,$47.16 M,$0.75 B,10.15%,18.9,10.15%,18.9
+Mahindra & Mahindra,M&M.NS,0.88%,$2.71 B,$27.97 B,0.88%,$2.71 B,$27.97 B,10.48%,17.7,10.48%,17.7
+Tata Coffee,TATACOFFEE.NS,0.87%,$35.99 M,$0.77 B,0.87%,$35.99 M,$0.77 B,14.30%,35.6,14.30%,35.6
+VRL Logistics,VRLLOG.NS,0.87%,$26.84 M,$0.59 B,0.87%,$26.84 M,$0.59 B,10.38%,16.3,10.38%,16.3
+Divis Laboratories,DIVISLAB.NS,0.87%,$0.23 B,$10.90 B,0.87%,$0.23 B,$10.90 B,30.49%,61.4,30.49%,61.4
+L&T Technology Services,LTTS.NS,0.87%,$0.21 B,$6.80 B,0.87%,$0.21 B,$6.80 B,0.00%,45.6,0.00%,45.6
+NACL Industries,NACLIND.NS,0.86%,$6.53 M,$0.14 B,0.86%,$6.53 M,$0.14 B,5.63%,13.5,5.63%,13.5
+Praj Industries,PRAJIND.NS,0.86%,$45.45 M,$1.17 B,0.86%,$45.45 M,$1.17 B,8.68%,35.4,8.68%,35.4
+Sterlite Technologies,STLTECH.NS,0.86%,$54.83 M,$0.56 B,0.86%,$54.83 M,$0.56 B,5.04%,22.6,5.04%,22.6
+Ambuja Cements,AMBUJACEM.NS,0.86%,$0.55 B,$14.01 B,0.86%,$0.55 B,$14.01 B,11.93%,44.8,11.93%,44.8
+DCM Shriram,DCMSHRIRAM.NS,0.85%,$0.10 B,$1.64 B,0.85%,$0.10 B,$1.64 B,13.92%,22.4,13.92%,22.4
+Punjab & Sind Bank,PSB.NS,0.85%,$0.17 B,$4.82 B,0.85%,$0.17 B,$4.82 B,39.24%,29.9,39.24%,29.9
+Atul,ATUL.NS,0.85%,$60.25 M,$2.07 B,0.85%,$60.25 M,$2.07 B,11.95%,44.1,11.95%,44.1
+Jindal Poly Films,JINDALPOLY.NS,0.84%,$8.54 M,$0.26 B,0.84%,$8.54 M,$0.26 B,19.88%,21.0,19.88%,21.0
+Bandhan Bank,BANDHANBNK.NS,0.84%,$0.47 B,$3.50 B,0.84%,$0.47 B,$3.50 B,22.74%,11.3,22.74%,11.3
+Alembic Pharmaceuticals,APLLTD.NS,0.83%,$75.56 M,$2.25 B,0.83%,$75.56 M,$2.25 B,7.31%,35.5,7.31%,35.5
+Nucleus Software Exports,NUCLEUS.NS,0.82%,$33.5 M,$0.39 B,0.82%,$33.5 M,$0.39 B,18.75%,18.9,18.75%,18.9
+Schaeffler India,SCHAEFFLER.NS,0.82%,$0.14 B,$5.51 B,0.82%,$0.14 B,$5.51 B,17.17%,49.9,17.17%,49.9
+Kaveri Seed,KSCL.NS,0.81%,$36.87 M,$0.38 B,0.81%,$36.87 M,$0.38 B,27.06%,11.3,27.06%,11.3
+KSB ltd,KSB.NS,0.81%,$34.56 M,$1.55 B,0.81%,$34.56 M,$1.55 B,13.29%,61.6,13.29%,61.6
+Quess,QUESS.NS,0.80%,$30.1 M,$0.88 B,0.80%,$30.1 M,$0.88 B,2.05%,35.7,2.05%,35.7
+Sun Pharmaceutical,SUNPHARMA.NS,0.80%,$1.27 B,$46.22 B,0.80%,$1.27 B,$46.22 B,21.62%,43.6,21.62%,43.6
+RPG Life Sciences,RPGLIFE.NS,0.80%,$13.25 M,$0.30 B,0.80%,$13.25 M,$0.30 B,17.87%,32.7,17.87%,32.7
+Kitex Garments,KITEX.NS,0.80%,$7.51 M,$0.15 B,0.80%,$7.51 M,$0.15 B,20.00%,43.6,20.00%,43.6
+Vst Tillers Tractors,VSTTILLERS.NS,0.80%,$20.23 M,$0.35 B,0.80%,$20.23 M,$0.35 B,11.32%,29.8,11.32%,29.8
+Finolex Cables,FINCABLES.NS,0.79%,$0.10 B,$1.62 B,0.79%,$0.10 B,$1.62 B,14.52%,24.6,14.52%,24.6
+Tata Elxsi,TATAELXSI.NS,0.79%,$0.12 B,$5.71 B,0.79%,$0.12 B,$5.71 B,29.81%,60.6,29.81%,60.6
+Voltas,VOLTAS.NS,0.79%,$69.61 M,$4.21 B,0.79%,$69.61 M,$4.21 B,3.58%,177,3.58%,177
+Life Insurance Corporation of India (LIC),LICI.NS,0.78%,$4.91 B,$68.62 B,0.78%,$4.91 B,$68.62 B,5.72%,12.4,5.72%,12.4
+Orient Electric,ORIENTELEC.NS,0.77%,$16.29 M,$0.50 B,0.77%,$16.29 M,$0.50 B,5.87%,54.2,5.87%,54.2
+ACC,ACC.NS,0.76%,$0.25 B,$5.49 B,0.76%,$0.25 B,$5.49 B,7.92%,45.3,7.92%,45.3
+Happiest Minds Technologies,HAPPSTMNDS.NS,0.76%,$43.24 M,$1.38 B,0.76%,$43.24 M,$1.38 B,23.20%,48.5,23.20%,48.5
+Maruti Suzuki India,MARUTI.NS,0.76%,$1.90 B,$46.44 B,0.76%,$1.90 B,$46.44 B,9.34%,32.6,9.34%,32.6
+Honda Siel Power Products,HONDAPOWER.NS,0.76%,$13.52 M,$0.26 B,0.76%,$13.52 M,$0.26 B,10.29%,22.5,10.29%,22.5
+Kajaria Ceramics,KAJARIACER.NS,0.76%,$69.77 M,$2.26 B,0.76%,$69.77 M,$2.26 B,10.80%,47.4,10.80%,47.4
+City Union Bank,CUB.NS,0.76%,$0.14 B,$1.20 B,0.76%,$0.14 B,$1.20 B,40.06%,10.4,40.06%,10.4
+ICICI Bank,IBN,0.75%,$5.68 B,$91.97 B,0.75%,$5.68 B,$91.97 B,36.03%,18.6,36.03%,18.6
+Tata Consumer Products,TATACONSUM.NS,0.75%,$0.22 B,$12.81 B,0.75%,$0.22 B,$12.81 B,13.40%,81.9,13.40%,81.9
+Grindwell Norton,GRINDWELL.NS,0.75%,$64 M,$2.62 B,0.75%,$64 M,$2.62 B,19.46%,58.1,19.46%,58.1
+Wendt India,WENDT.NS,0.74%,$6.48 M,$0.26 B,0.74%,$6.48 M,$0.26 B,25.54%,52.9,25.54%,52.9
+Cera Sanitaryware,CERA.NS,0.74%,$37.52 M,$1.06 B,0.74%,$37.52 M,$1.06 B,16.55%,37.8,16.55%,37.8
+Symphony Limited,SYMPHONY.NS,0.73%,$17.63 M,$0.71 B,0.73%,$17.63 M,$0.71 B,12.79%,50.3,12.79%,50.3
+Bharat Forge,BHARATFORG.NS,0.73%,$0.20 B,$6.29 B,0.73%,$0.20 B,$6.29 B,9.38%,86.1,9.38%,86.1
+Arvind,ARVIND.NS,0.72%,$52.56 M,$0.87 B,0.72%,$52.56 M,$0.87 B,6.05%,22.1,6.05%,22.1
+Mastek,MASTEK.NS,0.72%,$51.46 M,$0.97 B,0.72%,$51.46 M,$0.97 B,17.63%,29.7,17.63%,29.7
+Supreme Industries,SUPREMEIND.NS,0.71%,$0.16 B,$5.97 B,0.71%,$0.16 B,$5.97 B,12.07%,55.7,12.07%,55.7
+The Tinplate Company Of India,TINPLATE.NS,0.70%,$17.1 M,$0.53 B,0.70%,$17.1 M,$0.53 B,7.39%,47.8,7.39%,47.8
+Balkrishna Industries,BALKRISIND.NS,0.70%,$0.19 B,$5.26 B,0.70%,$0.19 B,$5.26 B,15.73%,42.3,15.73%,42.3
+Wheels India,WHEELS.NS,0.69%,$6.52 M,$0.17 B,0.69%,$6.52 M,$0.17 B,2.00%,23.7,2.00%,23.7
+MM Forgings,MMFL.NS,0.68%,$22.39 M,$0.25 B,0.68%,$22.39 M,$0.25 B,11.95%,16.3,11.95%,16.3
+Repco Home Finance,REPCOHOME.NS,0.68%,$60.3 M,$0.30 B,0.68%,$60.3 M,$0.30 B,58.12%,7.45,58.12%,7.45
+Nerolac Paints,KANSAINER.NS,0.68%,$0.18 B,$2.60 B,0.68%,$0.18 B,$2.60 B,18.08%,24.6,18.08%,24.6
+Indiabulls Housing Finance,IBULHSGFIN.NS,0.67%,$0.19 B,$1.21 B,0.67%,$0.19 B,$1.21 B,51.94%,6.47,51.94%,6.47
+Finolex Industries,FINPIPE.NS,0.67%,$81.35 M,$1.74 B,0.67%,$81.35 M,$1.74 B,15.49%,30.0,15.49%,30.0
+Indoco Remedies,INDOCO.NS,0.67%,$17.16 M,$0.37 B,0.67%,$17.16 M,$0.37 B,13.25%,27.2,13.25%,27.2
+Federal Bank,FEDERALBNK.NS,0.67%,$0.63 B,$4.36 B,0.67%,$0.63 B,$4.36 B,42.23%,8.72,42.23%,8.72
+Exide Industries,EXIDEIND.NS,0.66%,$0.15 B,$3.12 B,0.66%,$0.15 B,$3.12 B,8.03%,30.9,8.03%,30.9
+Kirloskar Ferrous Industries,KIRLFER.NS,0.66%,$69.72 M,$0.91 B,0.66%,$69.72 M,$0.91 B,9.16%,16.8,9.16%,16.8
+Huhtamaki India,HUHTAMAKI.NS,0.65%,$63.86 M,$0.27 B,0.65%,$63.86 M,$0.27 B,3.12%,23.4,3.12%,23.4
+Apar Industries,APARINDS.NS,0.65%,$0.13 B,$3.05 B,0.65%,$0.13 B,$3.05 B,5.94%,34.2,5.94%,34.2
+Jay Bharat Maruti,JAYBARMARU.NS,0.65%,$6.56 M,$0.15 B,0.65%,$6.56 M,$0.15 B,2.57%,36.0,2.57%,36.0
+Rain Industries,RAIN.NS,0.63%,-$57.08 M,$0.64 B,0.63%,-$57.08 M,$0.64 B,11.13%,6.88,11.13%,6.88
+Polyplex,POLYPLEX.NS,0.63%,$15.15 M,$0.30 B,0.63%,$15.15 M,$0.30 B,13.62%,15.5,13.62%,15.5
+ICICI Lombard,ICICIGI.NS,0.63%,$0.29 B,$9.85 B,0.63%,$0.29 B,$9.85 B,11.75%,46.4,11.75%,46.4
+Sterling Tools,STERTOOLS.NS,0.62%,$7.36 M,$0.14 B,0.62%,$7.36 M,$0.14 B,8.64%,22.4,8.64%,22.4
+RBL Bank,RBLBANK.NS,0.62%,$0.15 B,$1.75 B,0.62%,$0.15 B,$1.75 B,16.55%,12.3,16.55%,12.3
+Zydus Lifesciences,ZYDUSLIFE.NS,0.61%,$0.46 B,$12.04 B,0.61%,$0.46 B,$12.04 B,16.11%,39.3,16.11%,39.3
+Biocon,BIOCON.NS,0.61%,$0.32 B,$3.61 B,0.61%,$0.32 B,$3.61 B,12.16%,69.6,12.16%,69.6
+Time Technoplast,TIMETECHNO.NS,0.60%,$58.86 M,$0.59 B,0.60%,$58.86 M,$0.59 B,9.04%,20.3,9.04%,20.3
+Godawari Power & Ispat,GPIL.NS,0.60%,$0.14 B,$1.07 B,0.60%,$0.14 B,$1.07 B,24.04%,12.2,24.04%,12.2
+Kewal Kiran Clothing,KKCL.NS,0.59%,$24 M,$0.51 B,0.59%,$24 M,$0.51 B,20.36%,27.8,20.36%,27.8
+Cipla,CIPLA.NS,0.59%,$0.63 B,$14.32 B,0.59%,$0.63 B,$14.32 B,19.66%,33.6,19.66%,33.6
+Suprajit Engineering,SUPRAJIT.NS,0.58%,$25.71 M,$0.67 B,0.58%,$25.71 M,$0.67 B,8.91%,35.0,8.91%,35.0
+Hester Biosciences,HESTERBIO.NS,0.58%,$4.9 M,$0.14 B,0.58%,$4.9 M,$0.14 B,19.97%,39.9,19.97%,39.9
+Dollar Industries,DOLLAR.NS,0.58%,$9.03 M,$0.35 B,0.58%,$9.03 M,$0.35 B,8.55%,72.7,8.55%,72.7
+Coromandel,COROMANDEL.NS,0.57%,$0.29 B,$3.75 B,0.57%,$0.29 B,$3.75 B,17.30%,15.4,17.30%,15.4
+Samvardhana Motherson,MOTHERSON.NS,0.57%,$0.59 B,$9.43 B,0.57%,$0.59 B,$9.43 B,4.72%,41.2,4.72%,41.2
+Oberoi Realty,OBEROIRLTY.NS,0.56%,$0.31 B,$6.30 B,0.56%,$0.31 B,$6.30 B,53.04%,35.4,53.04%,35.4
+Hindalco Industries,HINDALCO.NS,0.56%,$2.01 B,$14.66 B,0.56%,$2.01 B,$14.66 B,6.53%,14.0,6.53%,14.0
+Hatsun Agro Products,HATSUN.NS,0.55%,$38.69 M,$2.88 B,0.55%,$38.69 M,$2.88 B,3.56%,105,3.56%,105
+Punjab National Bank,PNB.NS,0.54%,$1.33 B,$16.18 B,0.54%,$1.33 B,$16.18 B,12.51%,22.5,12.51%,22.5
+BSE,BSE.NS,0.54%,$0.11 B,$3.56 B,0.54%,$0.11 B,$3.56 B,36.50%,49.1,36.50%,49.1
+Blue Dart Express,BLUEDART.NS,0.54%,$46.5 M,$1.65 B,0.54%,$46.5 M,$1.65 B,9.82%,45.3,9.82%,45.3
+Abbott India,ABBOTINDIA.NS,0.53%,$0.18 B,$6.89 B,0.53%,$0.18 B,$6.89 B,25.42%,56.1,25.42%,56.1
+Laurus Labs,LAURUSLABS.NS,0.52%,$33.51 M,$2.57 B,0.52%,$33.51 M,$2.57 B,13.96%,55.8,13.96%,55.8
+Quick Heal,QUICKHEAL.NS,0.52%,$0.3 M,$0.30 B,0.52%,$0.3 M,$0.30 B,2.88%,-168,2.88%,-168
+Jindal Stainless,JSL.NS,0.52%,$0.61 B,$6.83 B,0.52%,$0.61 B,$6.83 B,9.10%,16.7,9.10%,16.7
+Foseco India,FOSECOIND.NS,0.52%,$8.9 M,$0.22 B,0.52%,$8.9 M,$0.22 B,15.07%,38.9,15.07%,38.9
+Persistent Systems,PERSISTENT.NS,0.51%,$0.17 B,$7.25 B,0.51%,$0.17 B,$7.25 B,14.98%,64.3,14.98%,64.3
+Tata Power,TATAPOWER.NS,0.51%,$0.64 B,$14.94 B,0.51%,$0.64 B,$14.94 B,10.51%,35.3,10.51%,35.3
+Rico Auto Industries,RICOAUTO.NS,0.51%,$14.83 M,$0.23 B,0.51%,$14.83 M,$0.23 B,5.00%,40.8,5.00%,40.8
+Sandhar,SANDHAR.NS,0.51%,$16.4 M,$0.35 B,0.51%,$16.4 M,$0.35 B,3.47%,35.5,3.47%,35.5
+Havells India,HAVELLS.NS,0.51%,$0.19 B,$11.02 B,0.51%,$0.19 B,$11.02 B,8.76%,78.3,8.76%,78.3
+Shalby,SHALBY.NS,0.51%,$16.54 M,$0.31 B,0.51%,$16.54 M,$0.31 B,13.69%,32.7,13.69%,32.7
+Vesuvius India,VESUVIUS.NS,0.50%,$32.25 M,$0.83 B,0.50%,$32.25 M,$0.83 B,10.03%,36.8,10.03%,36.8
+Milkfood Limited,MLKFOOD.BO,0.49%,$2.34 M,$29.15 M,0.49%,$2.34 M,$29.15 M,4.55%,24.5,4.55%,24.5
+Greenpanel Industries,GREENPANEL.NS,0.48%,$30.86 M,$0.46 B,0.48%,$30.86 M,$0.46 B,21.58%,17.1,21.58%,17.1
+Indian Railway Catering & Tourism,IRCTC.NS,0.48%,$0.18 B,$8.89 B,0.48%,$0.18 B,$8.89 B,36.71%,74.5,36.71%,74.5
+Blue Star,BLUESTARCO.NS,0.48%,$86.84 M,$3.05 B,0.48%,$86.84 M,$3.05 B,7.64%,54.4,7.64%,54.4
+Berger Paints,BERGEPAINT.NS,0.48%,$0.19 B,$7.79 B,0.48%,$0.19 B,$7.79 B,12.90%,60.0,12.90%,60.0
+Anup Engineering,ANUP.NS,0.48%,$12.35 M,$0.37 B,0.48%,$12.35 M,$0.37 B,18.60%,45.3,18.60%,45.3
+Somany Ceramics,SOMANYCERA.NS,0.48%,$20.57 M,$0.30 B,0.48%,$20.57 M,$0.30 B,5.09%,40.4,5.09%,40.4
+CEAT,CEATLTD.NS,0.48%,$0.10 B,$1.25 B,0.48%,$0.10 B,$1.25 B,2.30%,19.4,2.30%,19.4
+NBCC India,NBCC.NS,0.47%,$61.94 M,$2.47 B,0.47%,$61.94 M,$2.47 B,5.38%,58.7,5.38%,58.7
+Dalmia Bharat,DALBHARAT.NS,0.47%,$0.17 B,$4.40 B,0.47%,$0.17 B,$4.40 B,9.07%,36.8,9.07%,36.8
+DLF,DLF.NS,0.47%,$0.21 B,$25.66 B,0.47%,$0.21 B,$25.66 B,27.01%,94.0,27.01%,94.0
+Dhampur Sugar Mills,DHAMPURSUG.NS,0.46%,$29.52 M,$0.17 B,0.46%,$29.52 M,$0.17 B,13.97%,9.20,13.97%,9.20
+KEC International,KEC.NS,0.45%,$0.11 B,$2.07 B,0.45%,$0.11 B,$2.07 B,4.04%,90.0,4.04%,90.0
+Grasim Industries,GRASIM.NS,0.45%,$1.59 B,$18.06 B,0.45%,$1.59 B,$18.06 B,11.84%,22.1,11.84%,22.1
+Lux Industries,LUXIND.NS,0.45%,$16.55 M,$0.40 B,0.45%,$16.55 M,$0.40 B,11.13%,30.6,11.13%,30.6
+Cigniti Technologies,CIGNITITEC.NS,0.44%,$30.43 M,$0.41 B,0.44%,$30.43 M,$0.41 B,13.45%,20.0,13.45%,20.0
+Patanjali Foods,PATANJALI.NS,0.44%,$0.12 B,$5.98 B,0.44%,$0.12 B,$5.98 B,5.86%,56.6,5.86%,56.6
+Aurobindo Pharma,AUROPHARMA.NS,0.44%,$0.49 B,$7.15 B,0.44%,$0.49 B,$7.15 B,11.18%,30.1,11.18%,30.1
+VIP Industries,VIPIND.NS,0.44%,$17.82 M,$0.78 B,0.44%,$17.82 M,$0.78 B,12.23%,58.0,12.23%,58.0
+United Breweries,UBL.NS,0.44%,$55.01 M,$5.47 B,0.44%,$55.01 M,$5.47 B,5.56%,179,5.56%,179
+Bliss GVS Pharma,BLISSGVS.NS,0.44%,$14.84 M,$0.14 B,0.44%,$14.84 M,$0.14 B,19.10%,19.7,19.10%,19.7
+Ratnamani Metals & Tubes,RATNAMANI.NS,0.44%,$0.10 B,$2.40 B,0.44%,$0.10 B,$2.40 B,17.00%,30.9,17.00%,30.9
+Kokuyo Camlin,KOKUYOCMLN.NS,0.43%,$4.86 M,$0.13 B,0.43%,$4.86 M,$0.13 B,3.98%,44.9,3.98%,44.9
+AIA Engineering,AIAENG.NS,0.43%,$0.18 B,$4.28 B,0.43%,$0.18 B,$4.28 B,0.00%,28.4,0.00%,28.4
+Shriram Pistons & Rings,SHRIPISTON.NS,0.43%,$66.84 M,$1.02 B,0.43%,$66.84 M,$1.02 B,13.82%,26.3,13.82%,26.3
+Hikal,HIKAL.NS,0.43%,$17.39 M,$0.40 B,0.43%,$17.39 M,$0.40 B,6.29%,36.4,6.29%,36.4
+Bajaj Electricals,BAJAJELEC.NS,0.43%,$27.63 M,$1.27 B,0.43%,$27.63 M,$1.27 B,5.35%,50.3,5.35%,50.3
+Mahindra Lifespaces,MAHLIFE.NS,0.43%,-$0.08 M,$1.01 B,0.43%,-$0.08 M,$1.01 B,17.41%,793,17.41%,793
+JSW Steel,JSWSTEEL.NS,0.42%,$1.89 B,$24.09 B,0.42%,$1.89 B,$24.09 B,4.67%,21.0,4.67%,21.0
+Shree Cement,SHREECEM.NS,0.42%,$0.35 B,$10.95 B,0.42%,$0.35 B,$10.95 B,11.35%,57.8,11.35%,57.8
+V-Guard Industries,VGUARD.NS,0.41%,$42.55 M,$1.67 B,0.41%,$42.55 M,$1.67 B,7.26%,64.0,7.26%,64.0
+Godrej,GODREJCP.NS,0.41%,$0.32 B,$14.99 B,0.41%,$0.32 B,$14.99 B,17.54%,71.4,17.54%,71.4
+Polycab India,POLYCAB.NS,0.40%,$0.26 B,$8.83 B,0.40%,$0.26 B,$8.83 B,12.71%,46.1,12.71%,46.1
+Cantabil Retail India,CANTABIL.NS,0.40%,$9.3 M,$0.22 B,0.40%,$9.3 M,$0.22 B,17.02%,13.9,17.02%,13.9
+Whirlpool India,WHIRLPOOL.NS,0.40%,$36.38 M,$1.88 B,0.40%,$36.38 M,$1.88 B,4.55%,75.4,4.55%,75.4
+JSW Energy,JSWENERGY.NS,0.40%,$0.40 B,$10.12 B,0.40%,$0.40 B,$10.12 B,26.97%,46.4,26.97%,46.4
+Adani Ports & SEZ,ADANIPORTS.NS,0.40%,$1.39 B,$33.15 B,0.40%,$1.39 B,$33.15 B,43.20%,43.0,43.20%,43.0
+UltraTech Cement,ULTRACEMCO.NS,0.40%,$1.16 B,$33.40 B,0.40%,$1.16 B,$33.40 B,12.47%,48.2,12.47%,48.2
+Shankara Building,SHANKARA.NS,0.40%,$12.32 M,$0.18 B,0.40%,$12.32 M,$0.18 B,2.20%,20.9,2.20%,20.9
+Endurance Technologies,ENDURANCE.NS,0.40%,$96.68 M,$3.00 B,0.40%,$96.68 M,$3.00 B,7.79%,45.8,7.79%,45.8
+Asahi India Glass,ASAHIINDIA.NS,0.39%,$67.75 M,$1.54 B,0.39%,$67.75 M,$1.54 B,19.13%,36.3,19.13%,36.3
+Sunteck Realty,SUNTECK.NS,0.39%,-$9.59 M,$0.70 B,0.39%,-$9.59 M,$0.70 B,8.00%,-117,8.00%,-117
+Pidilite,PIDILITIND.NS,0.38%,$0.28 B,$18.02 B,0.38%,$0.28 B,$18.02 B,15.81%,105,15.81%,105
+IndiaMART,INDIAMART.NS,0.38%,$48.38 M,$1.92 B,0.38%,$48.38 M,$1.92 B,42.37%,50.6,42.37%,50.6
+JK Cement,JKCEMENT.NS,0.37%,$0.17 B,$3.79 B,0.37%,$0.17 B,$3.79 B,9.70%,82.0,9.70%,82.0
+India Tourism Development Corp,ITDC.NS,0.37%,$12.14 M,$0.64 B,0.37%,$12.14 M,$0.64 B,15.63%,76.1,15.63%,76.1
+United Spirits,UNITDSPR.BO,0.36%,$0.20 B,$9.63 B,0.36%,$0.20 B,$9.63 B,15.31%,57.6,15.31%,57.6
+Info Edge,NAUKRI.NS,0.36%,$31.98 M,$8.10 B,0.36%,$31.98 M,$8.10 B,5.99%,-533,5.99%,-533
+SBI Card,SBICARD.NS,0.36%,$0.38 B,$8.02 B,0.36%,$0.38 B,$8.02 B,25.46%,28.6,25.46%,28.6
+Granules India,GRANULES.NS,0.35%,$64.76 M,$1.25 B,0.35%,$64.76 M,$1.25 B,0.00%,23.6,0.00%,23.6
+KPIT Technologies,KPITTECH.NS,0.35%,$86.13 M,$4.50 B,0.35%,$86.13 M,$4.50 B,14.86%,74.8,14.86%,74.8
+Deepak Nitrite,DEEPAKNTR.NS,0.35%,$0.13 B,$3.52 B,0.35%,$0.13 B,$3.52 B,13.64%,37.7,13.64%,37.7
+Rajesh Exports,RAJESHEXPO.NS,0.35%,$0.11 B,$1.00 B,0.35%,$0.11 B,$1.00 B,0.43%,6.81,0.43%,6.81
+Marksans Pharma,MARKSANS.NS,0.35%,$52.37 M,$0.77 B,0.35%,$52.37 M,$0.77 B,16.61%,22.1,16.61%,22.1
+Zydus Wellness,ZYDUSWELL.NS,0.34%,$30.99 M,$1.13 B,0.34%,$30.99 M,$1.13 B,14.41%,32.8,14.41%,32.8
+Hindustan Copper,HINDCOPPER.NS,0.34%,$48.58 M,$3.11 B,0.34%,$48.58 M,$3.11 B,19.88%,91.4,19.88%,91.4
+Elgi Equipments,ELGIEQUIP.NS,0.34%,$70.96 M,$2.23 B,0.34%,$70.96 M,$2.23 B,17.43%,48.8,17.43%,48.8
+3M India,3MINDIA.NS,0.33%,$88.92 M,$4.14 B,0.33%,$88.92 M,$4.14 B,16.42%,67.4,16.42%,67.4
+BEML,BEML.NS,0.33%,$43.04 M,$1.54 B,0.33%,$43.04 M,$1.54 B,6.35%,75.2,6.35%,75.2
+Bharti Airtel,BHARTIARTL.NS,0.33%,$1.80 B,$87.56 B,0.33%,$1.80 B,$87.56 B,10.30%,90.7,10.30%,90.7
+APL Apollo,APLAPOLLO.NS,0.33%,$0.12 B,$5.04 B,0.33%,$0.12 B,$5.04 B,5.74%,56.9,5.74%,56.9
+Greenlam Industries,GREENLAM.NS,0.32%,$26.32 M,$0.74 B,0.32%,$26.32 M,$0.74 B,8.53%,40.2,8.53%,40.2
+JTEKT India,JTEKTINDIA.NS,0.31%,$16.08 M,$0.47 B,0.31%,$16.08 M,$0.47 B,5.47%,48.3,5.47%,48.3
+Hinduja Global Solutions,HGS.NS,0.31%,$26.97 M,$0.44 B,0.31%,$26.97 M,$0.44 B,9.29%,12.4,9.29%,12.4
+Syrma SGS Technology,SYRMA.NS,0.31%,$24.44 M,$1.02 B,0.31%,$24.44 M,$1.02 B,9.33%,79.4,9.33%,79.4
+Reliance Industries,RELIANCE.NS,0.31%,$12.22 B,$235.77 B,0.31%,$12.22 B,$235.77 B,10.59%,28.4,10.59%,28.4
+PI Industries,PIIND.NS,0.31%,$0.22 B,$6.88 B,0.31%,$0.22 B,$6.88 B,23.37%,41.6,23.37%,41.6
+HDFC Life,HDFCLIFE.NS,0.31%,$0.16 B,$16.06 B,0.31%,$0.16 B,$16.06 B,1.77%,92.3,1.77%,92.3
+Carborundum Universal,CARBORUNIV.NS,0.30%,$79.93 M,$2.84 B,0.30%,$79.93 M,$2.84 B,13.45%,47.2,13.45%,47.2
+Vidhi Specialty Food,VIDHIING.NS,0.30%,$5.8 M,$0.27 B,0.30%,$5.8 M,$0.27 B,13.28%,64.7,13.28%,64.7
+Relaxo Footwear,RELAXO.NS,0.30%,$33.01 M,$2.47 B,0.30%,$33.01 M,$2.47 B,8.13%,106,8.13%,106
+Astra Microwave,ASTRAMICRO.NS,0.30%,$12.72 M,$0.63 B,0.30%,$12.72 M,$0.63 B,11.77%,83.1,11.77%,83.1
+Nelco,NELCO.NS,0.29%,$3.95 M,$0.19 B,0.29%,$3.95 M,$0.19 B,8.87%,72.2,8.87%,72.2
+Wonderla Holidays,WONDERLA.NS,0.29%,$27.77 M,$0.61 B,0.29%,$27.77 M,$0.61 B,42.44%,29.2,42.44%,29.2
+SRF Limited,SRF.NS,0.29%,$0.26 B,$9.05 B,0.29%,$0.26 B,$9.05 B,19.29%,43.0,19.29%,43.0
+Craftsman Automation,CRAFTSMAN.NS,0.28%,$53.53 M,$1.04 B,0.28%,$53.53 M,$1.04 B,0.00%,28.0,0.00%,28.0
+Titan Company,TITAN.NS,0.28%,$0.62 B,$39.40 B,0.28%,$0.62 B,$39.40 B,12.51%,98.8,12.51%,98.8
+Jubilant FoodWorks,JUBLFOOD.NS,0.27%,$37.95 M,$3.56 B,0.27%,$37.95 M,$3.56 B,7.51%,126,7.51%,126
+Glenmark Pharmaceuticals,GLENMARK.NS,0.27%,-$39.05 M,$3.21 B,0.27%,-$39.05 M,$3.21 B,9.57%,104,9.57%,104
+EIH Limited,EIHOTEL.NS,0.26%,$87.46 M,$3.15 B,0.26%,$87.46 M,$3.15 B,21.97%,73.0,21.97%,73.0
+Thermax,THERMAX.NS,0.26%,$0.10 B,$5.25 B,0.26%,$0.10 B,$5.25 B,7.91%,95.4,7.91%,95.4
+Honeywell Automation India,HONAUT.NS,0.26%,$76.52 M,$3.95 B,0.26%,$76.52 M,$3.95 B,16.59%,73.6,16.59%,73.6
+Sudarshan Chemical,SUDARSCHEM.NS,0.26%,$57.78 M,$0.51 B,0.26%,$57.78 M,$0.51 B,4.79%,13.2,4.79%,13.2
+UNO Minda,UNOMINDA.NS,0.26%,$0.13 B,$4.46 B,0.26%,$0.13 B,$4.46 B,8.59%,53.5,8.59%,53.5
+Escorts Limited,ESCORTS.NS,0.25%,$0.16 B,$3.57 B,0.25%,$0.16 B,$3.57 B,10.05%,37.6,10.05%,37.6
+BASF India,BASF.NS,0.25%,$78.8 M,$1.67 B,0.25%,$78.8 M,$1.67 B,5.24%,42.8,5.24%,42.8
+Fortis Healthcare,FORTIS.NS,0.25%,$0.10 B,$3.65 B,0.25%,$0.10 B,$3.65 B,14.49%,51.6,14.49%,51.6
+Lupin Limited,LUPIN.NS,0.25%,$0.29 B,$8.77 B,0.25%,$0.29 B,$8.77 B,9.13%,74.5,9.13%,74.5
+Filatex India,FILATEX.NS,0.25%,$15.52 M,$0.32 B,0.25%,$15.52 M,$0.32 B,5.08%,43.0,5.08%,43.0
+Ramco Cements,RAMCOCEM.NS,0.25%,$0.11 B,$2.28 B,0.25%,$0.11 B,$2.28 B,8.31%,64.4,8.31%,64.4
+Jindal Steel & Power,JINDALSTEL.NS,0.24%,$0.82 B,$10.17 B,0.24%,$0.82 B,$10.17 B,11.25%,28.4,11.25%,28.4
+Apollo Hospitals,APOLLOHOSP.NS,0.24%,$0.20 B,$10.97 B,0.24%,$0.20 B,$10.97 B,8.91%,131,8.91%,131
+CG Power and Industrial Solutions,CGPOWER.NS,0.24%,$0.13 B,$9.80 B,0.24%,$0.13 B,$9.80 B,15.36%,74.5,15.36%,74.5
+Voltamp Transformers,VOLTAMP.NS,0.24%,$46 M,$1.09 B,0.24%,$46 M,$1.09 B,17.44%,34.6,17.44%,34.6
+Igarashi Motors India,IGARASHI.NS,0.24%,$3.01 M,$0.16 B,0.24%,$3.01 M,$0.16 B,0.61%,122,0.61%,122
+Aarti Industries,AARTIIND.NS,0.23%,$49.04 M,$2.84 B,0.23%,$49.04 M,$2.84 B,8.87%,49.7,8.87%,49.7
+BLS International,BLS.NS,0.23%,$41.84 M,$1.59 B,0.23%,$41.84 M,$1.59 B,12.90%,54.9,12.90%,54.9
+EaseMyTrip,EASEMYTRIP.NS,0.23%,$25.34 M,$0.92 B,0.23%,$25.34 M,$0.92 B,44.75%,54.3,44.75%,54.3
+Ramkrishna Forgings,RKFORGE.NS,0.23%,$52.91 M,$1.47 B,0.23%,$52.91 M,$1.47 B,11.72%,36.4,11.72%,36.4
+Aarti Drugs,AARTIDRUGS.NS,0.22%,$33.63 M,$0.50 B,0.22%,$33.63 M,$0.50 B,9.47%,22.8,9.47%,22.8
+Fine Organics,FINEORG.NS,0.22%,$72.18 M,$1.50 B,0.22%,$72.18 M,$1.50 B,27.96%,27.0,27.96%,27.0
+Mangalam Cement,MANGLMCEM.NS,0.22%,$15.64 M,$0.23 B,0.22%,$15.64 M,$0.23 B,5.03%,525,5.03%,525
+Greenply,GREENPLY.NS,0.22%,$17.26 M,$0.34 B,0.22%,$17.26 M,$0.34 B,8.05%,38.8,8.05%,38.8
+Tata Motors,TATAMOTORS.NS,0.21%,$2.77 B,$42.94 B,0.21%,$2.77 B,$42.94 B,4.43%,485,4.43%,485
+Wipro,WIT,0.21%,$1.99 B,$30.54 B,0.21%,$1.99 B,$30.54 B,17.77%,22.4,17.77%,22.4
+Siemens India,SIEMENS.NS,0.20%,$0.32 B,$21.28 B,0.20%,$0.32 B,$21.28 B,13.43%,85.0,13.43%,85.0
+Strides Pharma,STAR.NS,0.20%,$14.33 M,$0.85 B,0.20%,$14.33 M,$0.85 B,-5.19%,-29.9,-5.19%,-29.9
+Phoenix Mills,PHOENIXLTD.NS,0.20%,$0.22 B,$5.45 B,0.20%,$0.22 B,$5.45 B,56.28%,52.7,56.28%,52.7
+Astral Poly Technik,ASTRAL.NS,0.19%,$94.28 M,$6.23 B,0.19%,$94.28 M,$6.23 B,12.31%,94.1,12.31%,94.1
+ABB India,ABB.NS,0.19%,$0.20 B,$15.14 B,0.19%,$0.20 B,$15.14 B,13.58%,118,13.58%,118
+Subros,SUBROS.NS,0.19%,$15.65 M,$0.42 B,0.19%,$15.65 M,$0.42 B,2.48%,69.2,2.48%,69.2
+Radico Khaitan,RADICO.NS,0.19%,$44.53 M,$2.63 B,0.19%,$44.53 M,$2.63 B,9.44%,93.8,9.44%,93.8
+Cholamandalam Investment and Finance,CHOLAFIN.NS,0.19%,$0.52 B,$10.95 B,0.19%,$0.52 B,$10.95 B,48.96%,29.0,48.96%,29.0
+eMudhra,EMUDHRA.NS,0.18%,$10.52 M,$0.81 B,0.18%,$10.52 M,$0.81 B,30.85%,79.5,30.85%,79.5
+Ashiana Housing,ASHIANA.NS,0.18%,$11.68 M,$0.34 B,0.18%,$11.68 M,$0.34 B,9.14%,100,9.14%,100
+Indian Hotels Company,INDHOTEL.NS,0.18%,$0.23 B,$11.82 B,0.18%,$0.23 B,$11.82 B,27.42%,79.4,27.42%,79.4
+Lodha Group,LODHA.NS,0.18%,$0.23 B,$13.79 B,0.18%,$0.23 B,$13.79 B,4.82%,-195,4.82%,-195
+AU Small Finance Bank,AUBANK.NS,0.18%,$0.25 B,$4.52 B,0.18%,$0.25 B,$4.52 B,34.35%,23.3,34.35%,23.3
+Galaxy Surfactants,GALAXYSURF.NS,0.18%,$50.15 M,$0.98 B,0.18%,$50.15 M,$0.98 B,11.15%,22.5,11.15%,22.5
+Ipca Laboratories,IPCALAB.NS,0.17%,$0.12 B,$3.63 B,0.17%,$0.12 B,$3.63 B,13.51%,59.8,13.51%,59.8
+Raymond,RAYMOND.NS,0.17%,$0.20 B,$1.42 B,0.17%,$0.20 B,$1.42 B,8.76%,7.72,8.76%,7.72
+Larsen & Toubro,LT.NS,0.17%,$2.83 B,$59.55 B,0.17%,$2.83 B,$59.55 B,11.16%,40.5,11.16%,40.5
+MapmyIndia,MAPMYINDIA.NS,0.17%,$19.66 M,$1.17 B,0.17%,$19.66 M,$1.17 B,49.48%,77.0,49.48%,77.0
+Neuland Laboratories,NEULANDLAB.NS,0.17%,$50.74 M,$0.98 B,0.17%,$50.74 M,$0.98 B,12.80%,35.5,12.80%,35.5
+Anant Raj,ANANTRAJ.NS,0.16%,$38.98 M,$1.24 B,0.16%,$38.98 M,$1.24 B,23.87%,48.1,23.87%,48.1
+Oriental Aromatics,OAL.NS,0.16%,$2.63 M,$0.13 B,0.16%,$2.63 M,$0.13 B,6.18%,196,6.18%,196
+CenturyPly,CENTURYPLY.NS,0.16%,$58.75 M,$1.69 B,0.16%,$58.75 M,$1.69 B,14.03%,37.0,14.03%,37.0
+Paisalo Digital,PAISALO.NS,0.16%,$26.51 M,$0.66 B,0.16%,$26.51 M,$0.66 B,46.68%,21.0,46.68%,21.0
+Prestige Group,PRESTIGE.NS,0.14%,$0.41 B,$5.28 B,0.14%,$0.41 B,$5.28 B,28.89%,41.3,28.89%,41.3
+Force Motors,FORCEMOT.NS,0.14%,$89.69 M,$1.13 B,0.14%,$89.69 M,$1.13 B,-0.25%,41.9,-0.25%,41.9
+Infibeam Avenues,INFIBEAM.NS,0.14%,$24.09 M,$1.17 B,0.14%,$24.09 M,$1.17 B,9.54%,69.6,9.54%,69.6
+Gokaldas Exports,GOKEX.NS,0.14%,$23.12 M,$0.54 B,0.14%,$23.12 M,$0.54 B,0.00%,30.6,0.00%,30.6
+Astec Lifesciences,ASTEC.NS,0.14%,-$8.09 M,$0.26 B,0.14%,-$8.09 M,$0.26 B,12.86%,-83.9,12.86%,-83.9
+Max Healthcare Institute,MAXHEALTH.NS,0.13%,$0.16 B,$8.60 B,0.13%,$0.16 B,$8.60 B,24.06%,61.1,24.06%,61.1
+Madras Rubber Factory,MRF.NS,0.13%,$0.37 B,$6.66 B,0.13%,$0.37 B,$6.66 B,8.55%,44.7,8.55%,44.7
+Bodal Chemicals,BODALCHEM.NS,0.13%,$1.37 M,$0.12 B,0.13%,$1.37 M,$0.12 B,4.83%,56.1,4.83%,56.1
+Safari Industries India,SAFARI.NS,0.13%,$27.09 M,$1.05 B,0.13%,$27.09 M,$1.05 B,10.71%,25.7,10.71%,25.7
+Varun Beverages,VBL.NS,0.13%,$0.33 B,$21.82 B,0.13%,$0.33 B,$21.82 B,16.68%,95.4,16.68%,95.4
+Linde India,LINDEINDIA.NS,0.12%,$69.73 M,$6.67 B,0.12%,$69.73 M,$6.67 B,0.00%,126,0.00%,126
+Confidence Petroleum,CONFIPET.NS,0.11%,$19.01 M,$0.33 B,0.11%,$19.01 M,$0.33 B,5.46%,22.5,5.46%,22.5
+Syngene International,SYNGENE.NS,0.11%,$81.95 M,$3.35 B,0.11%,$81.95 M,$3.35 B,19.96%,54.6,19.96%,54.6
+Apollo Tyres,APOLLOTYRE.NS,0.11%,$0.36 B,$3.56 B,0.11%,$0.36 B,$3.56 B,9.30%,22.1,9.30%,22.1
+ICICI Prulife,ICICIPRULI.NS,0.10%,$0.12 B,$10.03 B,0.10%,$0.12 B,$10.03 B,1.28%,91.4,1.28%,91.4
+Bajaj Finserv,BAJAJFINSV.NS,0.10%,$4.48 B,$30.26 B,0.10%,$4.48 B,$30.26 B,37.21%,34.1,37.21%,34.1
+HBL Power Systems,HBLPOWER.NS,0.10%,$37.36 M,$1.54 B,0.10%,$37.36 M,$1.54 B,10.80%,96.1,10.80%,96.1
+Knr Constructions,KNRCON.NS,0.10%,$84.14 M,$0.85 B,0.10%,$84.14 M,$0.85 B,19.70%,14.0,19.70%,14.0
+Axis Bank,AXISBANK.BO,0.10%,$2.65 B,$38.20 B,0.10%,$2.65 B,$38.20 B,30.97%,24.2,30.97%,24.2
+Tube Investments of India,TIINDIA.NS,0.09%,$0.20 B,$8.67 B,0.09%,$0.20 B,$8.67 B,11.50%,69.2,11.50%,69.2
+Apollo Pipes,APOLLOPIPE.NS,0.09%,$7.64 M,$0.30 B,0.09%,$7.64 M,$0.30 B,4.55%,90.0,4.55%,90.0
+Texmaco Rail & Engineering,TEXRAIL.NS,0.09%,$14.29 M,$0.74 B,0.09%,$14.29 M,$0.74 B,0.07%,77.1,0.07%,77.1
+Solar Industries India,SOLARINDS.NS,0.09%,$0.15 B,$10.10 B,0.09%,$0.15 B,$10.10 B,0.00%,99.5,0.00%,99.5
+ZF Commercial Vehicle Control Systems India,ZFCVINDIA.NS,0.09%,$66.52 M,$3.48 B,0.09%,$66.52 M,$3.48 B,13.41%,73.4,13.41%,73.4
+Kotak Mahindra Bank,KOTAKBANK.NS,0.09%,$2.79 B,$42.28 B,0.09%,$2.79 B,$42.28 B,35.78%,20.4,35.78%,20.4
+Bombay Burmah,BBTC.NS,0.08%,$0.11 B,$1.31 B,0.08%,$0.11 B,$1.31 B,11.55%,-6.48,11.55%,-6.48
+Bharat Dynamics,BDL.NS,0.07%,$78.12 M,$3.70 B,0.07%,$78.12 M,$3.70 B,23.36%,84.9,23.36%,84.9
+Action Construction Equipment,ACE.NS,0.07%,$44.59 M,$1.98 B,0.07%,$44.59 M,$1.98 B,10.22%,84.7,10.22%,84.7
+JBM Auto,JBMA.NS,0.07%,$25.39 M,$2.64 B,0.07%,$25.39 M,$2.64 B,4.39%,153,4.39%,153
+Gujarat Fluorochemicals,FLUOROCHEM.NS,0.06%,$0.10 B,$4.11 B,0.06%,$0.10 B,$4.11 B,29.57%,27.5,29.57%,27.5
+Welspun India,WELSPUNIND.NS,0.06%,$76.18 M,$1.86 B,0.06%,$76.18 M,$1.86 B,5.33%,41.2,5.33%,41.2
+Jindal Worldwide,JINDWORLD.NS,0.06%,$18.24 M,$0.80 B,0.06%,$18.24 M,$0.80 B,9.62%,74.7,9.62%,74.7
+KCP Limited,KCP.NS,0.06%,$36.31 M,$0.26 B,0.06%,$36.31 M,$0.26 B,6.08%,46.5,6.08%,46.5
+Trent Limited,TRENT.NS,0.06%,$0.12 B,$16.80 B,0.06%,$0.12 B,$16.80 B,6.81%,288,6.81%,288
+Timken India,TIMKEN.NS,0.05%,$57.48 M,$2.60 B,0.05%,$57.48 M,$2.60 B,18.65%,58.3,18.65%,58.3
+Power Mech Projects,POWERMECH.NS,0.04%,$52.33 M,$0.90 B,0.04%,$52.33 M,$0.90 B,9.61%,31.3,9.61%,31.3
+Dixon Technologies,DIXON.NS,0.04%,$65.38 M,$5.13 B,0.04%,$65.38 M,$5.13 B,3.43%,150,3.43%,150
+eClerx Services,ECLERX.NS,0.04%,$85.64 M,$1.39 B,0.04%,$85.64 M,$1.39 B,0.00%,23.1,0.00%,23.1
+Vadilal Industries,VADILALIND.NS,0.04%,$20.41 M,$0.37 B,0.04%,$20.41 M,$0.37 B,12.12%,22.1,12.12%,22.1
+Adani Enterprises,ADANIENT.NS,0.04%,$1.08 B,$42.42 B,0.04%,$1.08 B,$42.42 B,6.46%,142,6.46%,142
+Skipper Limited,SKIPPER.NS,0.04%,$13.8 M,$0.39 B,0.04%,$13.8 M,$0.39 B,2.21%,52.9,2.21%,52.9
+Adani Total Gas,ATGL.NS,0.03%,$99.91 M,$12.36 B,0.03%,$99.91 M,$12.36 B,16.65%,179,16.65%,179
+N.B.I. Industrial Finance,NBIFIN.NS,0.02%,$1.2 M,$52.93 M,0.02%,$1.2 M,$52.93 M,80.19%,63.5,80.19%,63.5
+Olectra Greentech,OLECTRA.NS,0.02%,$14.61 M,$1.75 B,0.02%,$14.61 M,$1.75 B,8.19%,215,8.19%,215
+Srei Infrastructure Finance,SREINFRA.NS,0.00%,-$0.81 B,$12.67 M,0.00%,-$0.81 B,$12.67 M,-591.48%,-0.0110,-591.48%,-0.0110
+Parag Milk Foods,PARAGMILK.NS,0.00%,$18.89 M,$0.28 B,0.00%,$18.89 M,$0.28 B,3.67%,34.3,3.67%,34.3
+Reliance Infrastructure,RELINFRA.NS,0.00%,-$0.13 B,$1.31 B,0.00%,-$0.13 B,$1.31 B,8.35%,-2.08,8.35%,-2.08
+TCNS Clothing,TCNSBRANDS.NS,0.00%,-$31.21 M,$0.25 B,0.00%,-$31.21 M,$0.25 B,4.30%,-10.8,4.30%,-10.8
+Borosil,BORORENEW.NS,0.00%,$5.94 M,$0.81 B,0.00%,$5.94 M,$0.81 B,18.61%,207,18.61%,207
+PVR Cinemas,PVR.NS,0.00%,-$25.17 M,$1.73 B,0.00%,-$25.17 M,$1.73 B,-4.78%,-791,-4.78%,-791
+Varroc,VARROC.NS,0.00%,$53.23 M,$0.93 B,0.00%,$53.23 M,$0.93 B,-49.06%,-10.5,-49.06%,-10.5
+Mankind Pharma,MANKIND.NS,0.00%,$0.27 B,$10.61 B,0.00%,$0.27 B,$10.61 B,25.37%,54.4,25.37%,54.4
+SBI Life Insurance,SBILIFE.NS,0.00%,$0.23 B,$18.00 B,0.00%,$0.23 B,$18.00 B,2.18%,79.0,2.18%,79.0
+Spandana Sphoorty Financial,SPANDANA.NS,0.00%,$77.75 M,$0.69 B,0.00%,$77.75 M,$0.69 B,29.68%,13.7,29.68%,13.7
+Avalon Technologies,AVALON.NS,0.00%,$4.34 M,$0.38 B,0.00%,$4.34 M,$0.38 B,10.29%,43.4,10.29%,43.4
+Spencer's Retail,SPENCERS.NS,0.00%,-$13.99 M,$98.4 M,0.00%,-$13.99 M,$98.4 M,-3.53%,-3.32,-3.53%,-3.32
+MakeMyTrip,MMYT,0.00%,$50.29 M,$7.49 B,0.00%,$50.29 M,$7.49 B,2.56%,284,2.56%,284
+ReNew Power,RNW,0.00%,$64.93 M,$2.24 B,0.00%,$64.93 M,$2.24 B,-3.01%,-77.1,-3.01%,-77.1
+KFin Technologies,KFINTECH.NS,0.00%,$38.73 M,$1.24 B,0.00%,$38.73 M,$1.24 B,37.40%,44.8,37.40%,44.8
+Tata Teleservices,TTML.NS,0.00%,$46.85 M,$1.83 B,0.00%,$46.85 M,$1.83 B,-103.48%,-13.0,-103.48%,-13.0
+Prime Focus,PFOCUS.NS,0.00%,-$27.22 M,$0.35 B,0.00%,-$27.22 M,$0.35 B,1.74%,24.8,1.74%,24.8
+Hinduja Ventures,NXTDIGITAL.NS,0.00%,-$10.96 M,$48.13 M,0.00%,-$10.96 M,$48.13 M,-11.00%,-2.81,-11.00%,-2.81
+Godrej Properties,GODREJPROP.NS,0.00%,$0.12 B,$7.47 B,0.00%,$0.12 B,$7.47 B,36.74%,91.9,36.74%,91.9
+Sequent Scientific,SEQUENT.NS,0.00%,-$17.8 M,$0.34 B,0.00%,-$17.8 M,$0.34 B,-2.01%,-20.1,-2.01%,-20.1
+Gati,GATI.NS,0.00%,$0.69 M,$0.21 B,0.00%,$0.69 M,$0.21 B,1.06%,-114,1.06%,-114
+Hindustan Oil Exploration Company,HINDOILEXP.NS,0.00%,$38.3 M,$0.26 B,0.00%,$38.3 M,$0.26 B,16.65%,9.49,16.65%,9.49
+Adani Wilmar,AWL.NS,0.00%,$78.09 M,$5.22 B,0.00%,$78.09 M,$5.22 B,2.68%,334,2.68%,334
+PB Fintech,POLICYBZR.NS,0.00%,-$0.67 M,$6.19 B,0.00%,-$0.67 M,$6.19 B,-10.85%,-169,-10.85%,-169
+Piramal Pharma,PPLPHARMA.NS,0.00%,$57.89 M,$1.91 B,0.00%,$57.89 M,$1.91 B,6.60%,-111,6.60%,-111
+Sanghi Industries,SANGHIIND.NS,0.00%,-$64.68 M,$0.27 B,0.00%,-$64.68 M,$0.27 B,-20.16%,-4.69,-20.16%,-4.69
+GMR Group,GMRINFRA.NS,0.00%,$0.20 B,$5.68 B,0.00%,$0.20 B,$5.68 B,24.87%,-128,24.87%,-128
+Adani Energy Solutions,ADANIENSOL.NS,0.00%,$0.54 B,$13.56 B,0.00%,$0.54 B,$13.56 B,,89.6,,89.6
+Aavas Financiers,AAVAS.NS,0.00%,$72.65 M,$1.28 B,0.00%,$72.65 M,$1.28 B,27.46%,22.8,27.46%,22.8
+Dish TV,DISHTV.NS,0.00%,-$0.23 B,$0.39 B,0.00%,-$0.23 B,$0.39 B,-94.51%,-1.97,-94.51%,-1.97
+IDFC FIRST Bank,IDFCFIRSTB.NS,0.00%,$0.46 B,$6.60 B,0.00%,$0.46 B,$6.60 B,19.38%,17.9,19.38%,17.9
+JSW Holdings,JSWHL.NS,0.00%,$18.98 M,$0.95 B,0.00%,$18.98 M,$0.95 B,98.58%,53.9,98.58%,53.9
+Jio Financial Services,JIOFIN.NS,0.00%,$5.33 M,$26.21 B,0.00%,$5.33 M,$26.21 B,,> 1000,,> 1000
+KIOCL,KIOCL.NS,0.00%,$3.94 M,$3.00 B,0.00%,$3.94 M,$3.00 B,3.73%,-215,3.73%,-215
+Ethos Watches,ETHOSLTD.NS,0.00%,$14.1 M,$0.77 B,0.00%,$14.1 M,$0.77 B,12.14%,89.4,12.14%,89.4
+Balaji Telefilms,BALAJITELE.NS,0.00%,$7.42 M,$99.26 M,0.00%,$7.42 M,$99.26 M,-11.66%,-309,-11.66%,-309
+MEP Infrastructure,MEP.NS,0.00%,-$36.39 M,$27.45 M,0.00%,-$36.39 M,$27.45 M,-73.53%,-1.04,-73.53%,-1.04
+GE Power India,GEPIL.NS,0.00%,-$30.87 M,$0.21 B,0.00%,-$30.87 M,$0.21 B,-13.72%,-3.28,-13.72%,-3.28
+Yes Bank,YESBANK.NS,0.00%,$0.13 B,$8.23 B,0.00%,$0.13 B,$8.23 B,8.17%,79.5,8.17%,79.5
+IIFL Wealth Management,IIFLWAM.NS,0.00%,$0.15 B,$2.10 B,0.00%,$0.15 B,$2.10 B,0.00%,102,0.00%,102
+Black Box,BBOX.NS,0.00%,$31.91 M,$0.47 B,0.00%,$31.91 M,$0.47 B,0.00%,120,0.00%,120
+Kellton Tech Solutions,KELLTONTEC.NS,0.00%,-$15.47 M,$0.11 B,0.00%,-$15.47 M,$0.11 B,9.09%,-7.19,9.09%,-7.19
+Coffee Day Enterprises,COFFEEDAY.NS,0.00%,$9.26 M,$0.13 B,0.00%,$9.26 M,$0.13 B,-41.85%,-3.17,-41.85%,-3.17
+Suzlon,SUZLON.NS,0.00%,$85.46 M,$6.08 B,0.00%,$85.46 M,$6.08 B,48.62%,95.0,48.62%,95.0
+Ashoka Buildcon,ASHOKA.NS,0.00%,$71.53 M,$0.55 B,0.00%,$71.53 M,$0.55 B,10.04%,14.6,10.04%,14.6
+JCI Hitachi India,JCHAC.NS,0.00%,-$19.57 M,$0.32 B,0.00%,-$19.57 M,$0.32 B,-3.43%,-21.6,-3.43%,-21.6
+Federal-Mogul Goetze,FMGOETZE.NS,0.00%,$20.2 M,$0.21 B,0.00%,$20.2 M,$0.21 B,8.66%,16.3,8.66%,16.3
+SPARC,SPARC.NS,0.00%,-$43.99 M,$1.46 B,0.00%,-$43.99 M,$1.46 B,-97.83%,-46.7,-97.83%,-46.7
+Zomato,ZOMATO.NS,0.00%,-$1.52 M,$18.09 B,0.00%,-$1.52 M,$18.09 B,-9.67%,-177,-9.67%,-177
+FDC India,FDC.NS,0.00%,$45.97 M,$0.83 B,0.00%,$45.97 M,$0.83 B,13.90%,30.7,13.90%,30.7
+Indorama Synthetics,INDORAMA.NS,0.00%,-$19.66 M,$0.12 B,0.00%,-$19.66 M,$0.12 B,1.90%,-8.74,1.90%,-8.74
+Mirza International,MIRZAINT.NS,0.00%,-$15.13 M,$76.12 M,0.00%,-$15.13 M,$76.12 M,12.17%,22.2,12.17%,22.2
+Omaxe,OMAXE.NS,0.00%,-$55.59 M,$0.19 B,0.00%,-$55.59 M,$0.19 B,-52.86%,-4.00,-52.86%,-4.00
+Adani Power,ADANIPOWER.NS,0.00%,$2.22 B,$24.52 B,0.00%,$2.22 B,$24.52 B,38.01%,10.3,38.01%,10.3
+Zee Entertainment,ZEEL.NS,0.00%,$49.21 M,$1.63 B,0.00%,$49.21 M,$1.63 B,4.68%,-119,4.68%,-119
+Prince Pipes And Fittings,PRINCEPIPE.NS,0.00%,$36.23 M,$0.74 B,0.00%,$36.23 M,$0.74 B,5.41%,47.8,5.41%,47.8
+Hindustan Construction Company,HCC.NS,0.00%,$68.75 M,$0.64 B,0.00%,$68.75 M,$0.64 B,-2.31%,16.2,-2.31%,16.2
+Ebixcash India,EBIXFOREX.NS,0.00%,$8.37 M,$81.5 M,0.00%,$8.37 M,$81.5 M,0.00%,,0.00%,
+VA Tech Wabag,WABAG.NS,0.00%,$13.91 M,$0.54 B,0.00%,$13.91 M,$0.54 B,8.19%,141,8.19%,141
+GTL Infrastructure,GTLINFRA.NS,0.00%,-$0.15 B,$0.25 B,0.00%,-$0.15 B,$0.25 B,-132.38%,-1.28,-132.38%,-1.28
+Max Financial Services,MFSL.NS,0.00%,$64.33 M,$3.90 B,0.00%,$64.33 M,$3.90 B,1.51%,64.5,1.51%,64.5
+RattanIndia Power,RTNPOWER.NS,0.00%,-$0.27 B,$0.57 B,0.00%,-$0.27 B,$0.57 B,-53.68%,-2.18,-53.68%,-2.18
+Unitech Group,UNITECH.NS,0.00%,$4.97 M,$0.30 B,0.00%,$4.97 M,$0.30 B,-58.37%,-0.8829,-58.37%,-0.8829
+Indian Overseas Bank,IOB.NS,0.00%,$0.34 B,$13.47 B,0.00%,$0.34 B,$13.47 B,19.50%,59.3,19.50%,59.3
+Religare,RELIGARE.NS,0.00%,$0.45 B,$0.86 B,0.00%,$0.45 B,$0.86 B,-12.23%,2.13,-12.23%,2.13
+Paytm,PAYTM.NS,0.00%,-$0.13 B,$3.06 B,0.00%,-$0.13 B,$3.06 B,-16.83%,-21.5,-16.83%,-21.5
+Hindustan Sanitaryware & Industries,HSIL.NS,0.00%,$23.59 M,$0.24 B,0.00%,$23.59 M,$0.24 B,0.00%,,0.00%,
+IFB Industries,IFBIND.NS,0.00%,$6.3 M,$0.65 B,0.00%,$6.3 M,$0.65 B,-0.13%,381,-0.13%,381
+Vodafone Idea,IDEA.NS,0.00%,-$0.64 B,$7.77 B,0.00%,-$0.64 B,$7.77 B,-14.10%,-1.72,-14.10%,-1.72
+WNS,WNS,0.00%,$0.21 B,$2.41 B,0.00%,$0.21 B,$2.41 B,13.43%,15.8,13.43%,15.8
+Nectar Lifesciences,NECLIFE.NS,0.00%,$11.44 M,$84.45 M,0.00%,$11.44 M,$84.45 M,2.63%,-25.9,2.63%,-25.9
+Tata Steel Long Products,TATASTLLP.NS,0.00%,-$0.27 B,$0.44 B,0.00%,-$0.27 B,$0.44 B,-28.23%,-1.91,-28.23%,-1.91
+Jindal Stainless (Hisar),JSLHISAR.NS,0.00%,$0.23 B,$1.61 B,0.00%,$0.23 B,$1.61 B,11.68%,8.94,11.68%,8.94
+Gallantt Ispat,GALLISPAT.NS,0.00%,$18.66 M,$0.22 B,0.00%,$18.66 M,$0.22 B,0.00%,,0.00%,
+Jaypee Group,JPASSOCIAT.NS,0.00%,$38.77 M,$0.51 B,0.00%,$38.77 M,$0.51 B,-7.48%,-3.68,-7.48%,-3.68
+DMart,DMART.NS,0.00%,$0.40 B,$33.48 B,0.00%,$0.40 B,$33.48 B,6.89%,115,6.89%,115
+Nazara Technologies,NAZARA.NS,0.00%,$12.96 M,$0.63 B,0.00%,$12.96 M,$0.63 B,9.19%,94.3,9.19%,94.3
+CSB Bank,CSBBANK.NS,0.00%,$92.74 M,$0.70 B,0.00%,$92.74 M,$0.70 B,44.46%,9.79,44.46%,9.79
+Imagicaaworld Entertainment,IMAGICAA.NS,0.00%,$22.91 M,$0.44 B,0.00%,$22.91 M,$0.44 B,0.00%,10.6,0.00%,10.6
+3i Infotech,3IINFOLTD.NS,0.00%,-$25.11 M,$84.79 M,0.00%,-$25.11 M,$84.79 M,3.98%,526,3.98%,526
+NCC Limited,NCC.NS,0.00%,$0.12 B,$1.78 B,0.00%,$0.12 B,$1.78 B,0.00%,23.5,0.00%,23.5
+Indian Telephone Industries,ITI.NS,0.00%,-$19.07 M,$3.00 B,0.00%,-$19.07 M,$3.00 B,13.65%,-66.0,13.65%,-66.0
+MMTC,MMTC.NS,0.00%,$17.59 M,$1.19 B,0.00%,$17.59 M,$1.19 B,49.37%,5.69,49.37%,5.69
+Nykaa,NYKAA.NS,0.00%,$16.43 M,$5.59 B,0.00%,$16.43 M,$5.59 B,2.19%,> 1000,2.19%,> 1000
+IDFC,IDFC.NS,0.00%,$0.20 B,$2.11 B,0.00%,$0.20 B,$2.11 B,0.00%,4.07,0.00%,4.07
+Jump Networks,JUMPNET.NS,0.00%,-$1.51 M,$11.66 M,0.00%,-$1.51 M,$11.66 M,0.00%,,0.00%,
+Prakash Industries,PRAKASH.NS,0.00%,$32.97 M,$0.35 B,0.00%,$32.97 M,$0.35 B,5.16%,13.5,5.16%,13.5
+Devyani International,DEVYANI.NS,0.00%,$30.53 M,$2.24 B,0.00%,$30.53 M,$2.24 B,10.59%,91.9,10.59%,91.9
+Adani Green Energy,ADANIGREEN.NS,0.00%,$0.19 B,$35.12 B,0.00%,$0.19 B,$35.12 B,18.30%,287,18.30%,287
+Reliance Power,RPOWER.NS,0.00%,$83.11 M,$1.26 B,0.00%,$83.11 M,$1.26 B,29.55%,-19.1,29.55%,-19.1
+INEOS Styrolution,INEOSSTYRO.NS,0.00%,$41.37 M,$0.17 B,0.00%,$41.37 M,$0.17 B,13.63%,7.31,13.63%,7.31
+Sheela Foam,SFL.NS,0.00%,$34.23 M,$1.23 B,0.00%,$34.23 M,$1.23 B,9.48%,46.2,9.48%,46.2
+Sify,SIFY,0.00%,$27.12 M,$0.23 B,0.00%,$27.12 M,$0.23 B,6.83%,47.4,6.83%,47.4
+Zee Learn,ZEELEARN.NS,0.00%,-$36.79 M,$26.35 M,0.00%,-$36.79 M,$26.35 M,-52.71%,-0.4934,-52.71%,-0.4934
+Barbeque Nation Hospitality,BARBEQUE.NS,0.00%,$5.52 M,$0.24 B,0.00%,$5.52 M,$0.24 B,8.35%,-837,8.35%,-837
+Alok Industries,ALOKINDS.NS,0.00%,-$41.62 M,$1.62 B,0.00%,-$41.62 M,$1.62 B,-5.45%,-14.2,-5.45%,-14.2
+Asian Granito India,ASIANTILES.NS,0.00%,-$5.97 M,$92.95 M,0.00%,-$5.97 M,$92.95 M,-0.87%,-9.97,-0.87%,-9.97
+Schneider Electric Infrastructure,SCHNEIDER.NS,0.00%,$26.16 M,$1.86 B,0.00%,$26.16 M,$1.86 B,4.66%,111,4.66%,111
+Hathway,HATHWAY.NS,0.00%,$10.42 M,$0.43 B,0.00%,$10.42 M,$0.43 B,4.86%,59.5,4.86%,59.5
+Delhivery,DELHIVERY.NS,0.00%,-$42.09 M,$4.09 B,0.00%,-$42.09 M,$4.09 B,-9.98%,-47.9,-9.98%,-47.9
+Future Retail,FRETAIL.NS,0.00%,-$0.4 B,$13.96 M,0.00%,-$0.4 B,$13.96 M,-34.42%,-0.0273,-34.42%,-0.0273
+Yatra,YTRA,0.00%,-$3.35 M,$0.10 B,0.00%,-$3.35 M,$0.10 B,-11.57%,-25.0,-11.57%,-25.0
+Chalet Hotels,CHALET.NS,0.00%,$62.9 M,$2.01 B,0.00%,$62.9 M,$2.01 B,37.86%,87.6,37.86%,87.6
+Allcargo Logistics,ALLCARGO.NS,0.00%,$48.36 M,$0.85 B,0.00%,$48.36 M,$0.85 B,6.31%,3.19,6.31%,3.19
+Modern Dairies Limited,MODAIRY.BO,0.00%,$4.06 M,$8.39 M,0.00%,$4.06 M,$8.39 M,6.81%,5.80,6.81%,5.80
+SpiceJet,SPICEJET.BO,0.00%,-$58.84 M,$0.42 B,0.00%,-$58.84 M,$0.42 B,-19.13%,-2.60,-19.13%,-2.60
+Capacit'e Infraprojects,CAPACITE.NS,0.00%,$15.75 M,$0.27 B,0.00%,$15.75 M,$0.27 B,6.75%,20.2,6.75%,20.2
+Network18,NETWORK18.NS,0.00%,-$25.85 M,$1.14 B,0.00%,-$25.85 M,$1.14 B,-0.25%,-62.8,-0.25%,-62.8
+SML Isuzu,SMLISUZU.NS,0.00%,$12.88 M,$0.33 B,0.00%,$12.88 M,$0.33 B,-0.02%,54.9,-0.02%,54.9
+Radio City,RADIOCITY.NS,0.00%,$1.26 M,$70.2 M,0.00%,$1.26 M,$70.2 M,3.14%,160,3.14%,160
+Hindustan Media Ventures,HMVL.NS,0.00%,$0.43 M,$81.03 M,0.00%,$0.43 M,$81.03 M,-8.61%,-60.8,-8.61%,-60.8
+Tejas Networks,TEJASNET.NS,0.00%,-$13.46 M,$1.40 B,0.00%,-$13.46 M,$1.40 B,-4.63%,-227,-4.63%,-227
+Aditya Birla Capital,ABCAPITAL.NS,0.00%,$0.46 B,$5.44 B,0.00%,$0.46 B,$5.44 B,39.22%,8.31,39.22%,8.31
+Navkar Corp,NAVKARCORP.NS,0.00%,$2.42 M,$0.17 B,0.00%,$2.42 M,$0.17 B,16.50%,20.4,16.50%,20.4
+Central Bank of India,CENTRALBK.NS,0.00%,$0.30 B,$6.15 B,0.00%,$0.30 B,$6.15 B,,21.6,,21.6
+Indus Towers,INDUSTOWER.NS,0.00%,$0.56 B,$8.75 B,0.00%,$0.56 B,$8.75 B,9.32%,23.7,9.32%,23.7
+Amber Enterprises India,AMBER.NS,0.00%,$41.36 M,$1.43 B,0.00%,$41.36 M,$1.43 B,4.31%,72.3,4.31%,72.3
+Campus Activewear,CAMPUS.NS,0.00%,$12.87 M,$0.82 B,0.00%,$12.87 M,$0.82 B,12.83%,57.1,12.83%,57.1
+Himatsingka Seide,HIMATSEIDE.NS,0.00%,$52.09 M,$0.14 B,0.00%,$52.09 M,$0.14 B,5.49%,61.3,5.49%,61.3
+sterling & wilson solar,SWSOLAR.NS,0.00%,-$48.09 M,$1.44 B,0.00%,-$48.09 M,$1.44 B,-51.30%,-13.8,-51.30%,-13.8
+Gland Pharma,GLAND.NS,0.00%,$0.11 B,$3.53 B,0.00%,$0.11 B,$3.53 B,25.62%,38.2,25.62%,38.2
+Future Supply Chain Solutions,FSC.NS,0.00%,-$80.91 M,$3.8 M,0.00%,-$80.91 M,$3.8 M,-112.32%,-0.0437,-112.32%,-0.0437
+Aether Industries,AETHER.NS,0.00%,$20.16 M,$1.27 B,0.00%,$20.16 M,$1.27 B,27.58%,73.6,27.58%,73.6
+Inox Wind,INOXWIND.NS,0.00%,-$17.92 M,$1.88 B,0.00%,-$17.92 M,$1.88 B,-88.60%,-27.9,-88.60%,-27.9
+Reliance Communications,RCOM.NS,0.00%,-$1.08 M,$62.76 M,0.00%,-$1.08 M,$62.76 M,-61.46%,-0.0344,-61.46%,-0.0344
+Mahanagar Telephone Nigam,MTNL.NS,0.00%,-$87.25 M,$0.25 B,0.00%,-$87.25 M,$0.25 B,-226.29%,-0.6812,-226.29%,-0.6812
+Kingfa Science & Technology,KINGFA.NS,0.00%,$20.95 M,$0.26 B,0.00%,$20.95 M,$0.26 B,5.26%,18.9,5.26%,18.9
+Jagran Prakashan,JAGRAN.NS,0.00%,$32.15 M,$0.26 B,0.00%,$32.15 M,$0.26 B,18.20%,8.75,18.20%,8.75
+Azure Power,AZREF,0.00%,-$10.34 M,$83.4 M,0.00%,-$10.34 M,$83.4 M,-7.28%,-1.53,-7.28%,-1.53
+Jain Irrigation Systems,JISLDVREQS.NS,0.00%,$48.3 M,$0.41 B,0.00%,$48.3 M,$0.41 B,9.35%,2.16,9.35%,2.16
+TVS Motor,TVSMOTOR.NS,0.00%,$0.30 B,$11.66 B,0.00%,$0.30 B,$11.66 B,6.30%,66.4,6.30%,66.4
+InterGlobe Aviation,INDIGO.NS,0.00%,$1.35 B,$15.19 B,0.00%,$1.35 B,$15.19 B,5.19%,32.7,5.19%,32.7

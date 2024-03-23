@@ -1,0 +1,572 @@
+company_names,company_code,Dividend
+Vedanta,VEDL.NS,18.37%
+Hindustan Zinc,HINDZINC.NS,13.36%
+Heidelbergcement India,HEIDELBERG.NS,7.05%
+Tech Mahindra,TECHM.NS,5.96%
+Coal India,COALINDIA.NS,5.70%
+Sanofi India Limited,SANOFI.NS,5.55%
+GAIL,GAIL.NS,5.44%
+Tamil Nadu Newsprint and Papers Limited,TNPL.NS,5.15%
+Accelya,ACCELYA.NS,4.91%
+Indian Oil,IOC.NS,4.89%
+Geojit Financial Services,GEOJITFSL.NS,4.65%
+National Aluminum & Alloy,NATIONALUM.NS,4.49%
+Powergrid Corporation of India,POWERGRID.NS,4.43%
+Bank of Maharashtra,MAHABANK.NS,4.43%
+Gulf Oil Lubricants,GULFOILLUB.NS,4.35%
+PTC India,PTC.NS,4.33%
+General Insurance Corporation of India,GICRE.NS,4.28%
+Bharat Petroleum,BPCL.NS,4.28%
+National Mineral Development Corporation,NMDC.NS,4.16%
+HCL Technologies,HCLTECH.NS,4.03%
+Oil & Natural Gas,ONGC.NS,3.92%
+Petronet LNG,PETRONET.NS,3.89%
+Kuantum Papers,KUANTUM.NS,3.88%
+Piramal Enterprises,PEL.NS,3.70%
+Redington India,REDINGTON.NS,3.58%
+Indraprastha Gas,IGL.NS,3.41%
+Rane Brake Lining,RBL.NS,3.40%
+Gujarat Alkalies and Chemicals,GUJALKALI.NS,3.40%
+Tide Water Oil,TIDEWATER.NS,3.35%
+Bajaj Auto,BAJAJ-AUTO.NS,3.22%
+Monte Carlo Fashions,MONTECARLO.NS,3.20%
+Hindustan Petroleum,HINDPETRO.NS,3.19%
+National Fertilizers,NFL.NS,3.18%
+Gujarat Mineral Development,GMDCLTD.NS,3.18%
+Chennai Petroleum,CHENNPETRO.NS,3.14%
+MPS Limited,MPSLTD.NS,3.13%
+Puravankara,PURVA.NS,3.08%
+Shriram Transport Finance,SHRIRAMFIN.NS,3.05%
+Power Finance Corp,PFC.NS,3.02%
+RITES,RITES.NS,2.97%
+Rashtriya Chemicals and Fertilizers,RCF.NS,2.89%
+PTC Financial Services,PFS.NS,2.88%
+Sun TV Network,SUNTV.NS,2.75%
+Alembic Limited,ALEMBICLTD.NS,2.71%
+Bayer Crop Science,BAYERCROP.NS,2.68%
+GTPL Hathway,GTPL.NS,2.48%
+India Motor Parts and Accessories,IMPAL.NS,2.46%
+Siyaram Silk Mills,SIYSIL.NS,2.45%
+Rural Electrification Corp,RECLTD.NS,2.42%
+Tata Steel,TATASTEEL.NS,2.40%
+Infosys,INFY,2.36%
+I.g. Petrochemicals,IGPL.NS,2.35%
+Orient Paper Mills,ORIENTPPR.NS,2.33%
+NTPC Limited,NTPC.NS,2.32%
+Edelweiss Financial Services,EDELWEISS.NS,2.30%
+HEG,HEG.NS,2.23%
+NHPC Limited,NHPC.NS,2.21%
+PCBL Limited,PCBL.NS,2.21%
+UPL,UPL.NS,2.21%
+Chambal Fertilisers,CHAMBLFERT.NS,2.19%
+Karnataka Bank,KTKBANK.NS,2.16%
+Bank of Baroda,BANKBARODA.NS,2.16%
+ITC,ITC.NS,2.15%
+Canara Bank,CANBK.NS,2.14%
+Indian Metals & Ferro Alloys,IMFA.NS,2.13%
+Mahanagar Gas,MGL.NS,2.13%
+Hudco,HUDCO.NS,2.13%
+Southern Petrochemical Industries Corp,SPIC.NS,2.08%
+Mphasis,MPHASIS.NS,2.06%
+Union Bank of India,UNIONBANK.NS,2.05%
+Ingersoll Rand India,INGERRAND.NS,2.01%
+Gateway Distriparks,GATEWAY.NS,2.00%
+Steel Authority of India,SAIL.NS,1.95%
+Marico,MARICO.NS,1.91%
+Emami,EMAMILTD.NS,1.88%
+Aptech,APTECHT.NS,1.87%
+"Sumitomo Chemical
+India",SUMICHEM.NS,1.80%
+Hindustan Unilever,HINDUNILVR.NS,1.79%
+Indian Bank,INDIANB.NS,1.76%
+Automotive Axles,AUTOAXLES.NS,1.74%
+Tata Chemicals,TATACHEM.NS,1.70%
+New India Assurance,NIACL.NS,1.69%
+Sundaram Finance,SUNDARMHLD.NS,1.68%
+West Coast Paper Mills,WSTCSTPAPR.NS,1.68%
+Bajaj Holdings & Investment,BAJAJHLDNG.NS,1.67%
+NLC India,NLCINDIA.NS,1.66%
+Procter & Gamble India,PGHH.NS,1.65%
+Vaibhav Global,VAIBHAVGBL.NS,1.62%
+BOSCH India,BOSCHLTD.NS,1.62%
+Colgate-Palmolive India,COLPAL.NS,1.61%
+MSTC Limited,MSTCLTD.NS,1.61%
+India Nippon Electricals,INDNIPPON.NS,1.59%
+Rane Holdings,RANEHOLDIN.NS,1.59%
+Sasken Technologies,SASKEN.NS,1.59%
+Ashok Leyland,ASHOKLEY.NS,1.56%
+Excel Industries,EXCELINDUS.NS,1.55%
+Muthoot Finance,MUTHOOTFIN.NS,1.54%
+Engineers India,ENGINERSIN.NS,1.54%
+Oil India,OIL.NS,1.53%
+State Bank of India,SBIN.NS,1.53%
+Tata Consultancy Services,TCS.NS,1.52%
+Britannia Industries,BRITANNIA.NS,1.51%
+Hyderabad Industries Limited,HIL.NS,1.49%
+Bank of India,BANKINDIA.NS,1.49%
+Mangalore Chemicals and Fertilizers,MANGCHEFER.NS,1.49%
+Indian Energy Exchange,IEX.NS,1.48%
+SJVN,SJVN.NS,1.48%
+MOIL,MOIL.NS,1.46%
+East India Distilleries Parry,EIDPARRY.NS,1.45%
+LIC Housing Finance,LICHSGFIN.NS,1.45%
+Cyient,CYIENT.NS,1.42%
+Graphite India,GRAPHITE.NS,1.38%
+CARE's Ratings,CARERATING.NS,1.35%
+Coforge,COFORGE.NS,1.34%
+Dr. Reddy's,RDY,1.34%
+Kalpataru Power Transmission,KALPATPOWR.NS,1.34%
+Hero MotoCorp,HEROMOTOCO.NS,1.33%
+Amara Raja Batteries,AMARAJABAT.NS,1.33%
+Torrent Power,TORNTPOWER.NS,1.29%
+Hindustan Aeronautics,HAL.NS,1.27%
+Container Corporation of India,CONCOR.NS,1.27%
+Gujarat Gas,GUJGASLTD.NS,1.26%
+Apex Frozen Foods,APEX.NS,1.26%
+HDFC Bank,HDB,1.25%
+Rupa Company,RUPA.NS,1.25%
+IDBI Bank,IDBI.NS,1.25%
+Nestlé India,NESTLEIND.NS,1.23%
+Mahindra Logistics,MAHLOG.NS,1.23%
+TANLA,TANLA.NS,1.20%
+IIFL Finance,IIFL.NS,1.20%
+Kalyani Steels,KSL.NS,1.20%
+Torrent Pharmaceuticals,TORNTPHARM.NS,1.18%
+Multi Commodity Exchange,MCX.NS,1.17%
+LTIMindtree,LTIM.NS,1.17%
+Lumax Industries,LUMAXIND.NS,1.16%
+Dr Lal PathLabs,LALPATHLAB.NS,1.16%
+Nilkamal,NILKAMAL.NS,1.14%
+Karur Vysya Bank,KARURVYSYA.NS,1.14%
+Crompton Greaves Consumer Electricals,CROMPTON.NS,1.12%
+Indian Railway Finance,IRFC.NS,1.11%
+Tata Communications,TATACOMM.NS,1.11%
+Cummins India,CUMMINSIND.NS,1.08%
+South Indian Bank,SOUTHBANK.NS,1.07%
+Dabur,DABUR.NS,1.05%
+Delta Corp,DELTACORP.NS,1.04%
+ESAB India,ESABINDIA.NS,1.02%
+Vedant Fashions,MANYAVAR.NS,1.01%
+Natco Pharma,NATCOPHARM.NS,1.00%
+Cosmo First,COSMOFIRST.NS,0.99%
+CRISIL,CRISIL.NS,0.99%
+Trident,TRIDENT.NS,0.99%
+Mahindra CIE,MAHINDCIE.NS,0.98%
+Bata India,BATAINDIA.NS,0.98%
+Bharat Electronics,BEL.NS,0.97%
+India Glycols,INDIAGLYCO.NS,0.95%
+Eicher Motors,EICHERMOT.NS,0.95%
+IndusInd Bank,INDUSINDBK.NS,0.95%
+Alkem Laboratories,ALKEM.NS,0.94%
+SKF India,SKFINDIA.NS,0.94%
+Asian Paints,ASIANPAINT.NS,0.94%
+Gabriel India,GABRIEL.NS,0.94%
+Zensar,ZENSARTECH.NS,0.94%
+Mishra Dhatu Nigam,MIDHANI.NS,0.91%
+Page Industries,PAGEIND.NS,0.91%
+PDS Multinational,PDSL.NS,0.91%
+CDSL,CDSL.NS,0.91%
+Electrosteel Castings,ELECTCAST.NS,0.90%
+Bajaj Finance,BAJFINANCE.NS,0.90%
+Surya Roshni,SURYAROSNI.NS,0.90%
+Jubilant Pharmova,JUBLPHARMA.NS,0.88%
+Orient Cement,ORIENTCEM.NS,0.88%
+Transport Corporation of India,TCI.NS,0.88%
+Mahindra & Mahindra,M&M.NS,0.88%
+Tata Coffee,TATACOFFEE.NS,0.87%
+VRL Logistics,VRLLOG.NS,0.87%
+Divis Laboratories,DIVISLAB.NS,0.87%
+L&T Technology Services,LTTS.NS,0.87%
+NACL Industries,NACLIND.NS,0.86%
+Praj Industries,PRAJIND.NS,0.86%
+Sterlite Technologies,STLTECH.NS,0.86%
+Ambuja Cements,AMBUJACEM.NS,0.86%
+DCM Shriram,DCMSHRIRAM.NS,0.85%
+Punjab & Sind Bank,PSB.NS,0.85%
+Atul,ATUL.NS,0.85%
+Jindal Poly Films,JINDALPOLY.NS,0.84%
+Bandhan Bank,BANDHANBNK.NS,0.84%
+Alembic Pharmaceuticals,APLLTD.NS,0.83%
+Nucleus Software Exports,NUCLEUS.NS,0.82%
+Schaeffler India,SCHAEFFLER.NS,0.82%
+Kaveri Seed,KSCL.NS,0.81%
+KSB ltd,KSB.NS,0.81%
+Quess,QUESS.NS,0.80%
+Sun Pharmaceutical,SUNPHARMA.NS,0.80%
+RPG Life Sciences,RPGLIFE.NS,0.80%
+Kitex Garments,KITEX.NS,0.80%
+Vst Tillers Tractors,VSTTILLERS.NS,0.80%
+Finolex Cables,FINCABLES.NS,0.79%
+Tata Elxsi,TATAELXSI.NS,0.79%
+Voltas,VOLTAS.NS,0.79%
+Life Insurance Corporation of India (LIC),LICI.NS,0.78%
+Orient Electric,ORIENTELEC.NS,0.77%
+ACC,ACC.NS,0.76%
+Happiest Minds Technologies,HAPPSTMNDS.NS,0.76%
+Maruti Suzuki India,MARUTI.NS,0.76%
+Honda Siel Power Products,HONDAPOWER.NS,0.76%
+Kajaria Ceramics,KAJARIACER.NS,0.76%
+City Union Bank,CUB.NS,0.76%
+ICICI Bank,IBN,0.75%
+Tata Consumer Products,TATACONSUM.NS,0.75%
+Grindwell Norton,GRINDWELL.NS,0.75%
+Wendt India,WENDT.NS,0.74%
+Cera Sanitaryware,CERA.NS,0.74%
+Symphony Limited,SYMPHONY.NS,0.73%
+Bharat Forge,BHARATFORG.NS,0.73%
+Arvind,ARVIND.NS,0.72%
+Mastek,MASTEK.NS,0.72%
+Supreme Industries,SUPREMEIND.NS,0.71%
+The Tinplate Company Of India,TINPLATE.NS,0.70%
+Balkrishna Industries,BALKRISIND.NS,0.70%
+Wheels India,WHEELS.NS,0.69%
+MM Forgings,MMFL.NS,0.68%
+Repco Home Finance,REPCOHOME.NS,0.68%
+Nerolac Paints,KANSAINER.NS,0.68%
+Indiabulls Housing Finance,IBULHSGFIN.NS,0.67%
+Finolex Industries,FINPIPE.NS,0.67%
+Indoco Remedies,INDOCO.NS,0.67%
+Federal Bank,FEDERALBNK.NS,0.67%
+Exide Industries,EXIDEIND.NS,0.66%
+Kirloskar Ferrous Industries,KIRLFER.NS,0.66%
+Huhtamaki India,HUHTAMAKI.NS,0.65%
+Apar Industries,APARINDS.NS,0.65%
+Jay Bharat Maruti,JAYBARMARU.NS,0.65%
+Rain Industries,RAIN.NS,0.63%
+Polyplex,POLYPLEX.NS,0.63%
+ICICI Lombard,ICICIGI.NS,0.63%
+Sterling Tools,STERTOOLS.NS,0.62%
+RBL Bank,RBLBANK.NS,0.62%
+Zydus Lifesciences,ZYDUSLIFE.NS,0.61%
+Biocon,BIOCON.NS,0.61%
+Time Technoplast,TIMETECHNO.NS,0.60%
+Godawari Power & Ispat,GPIL.NS,0.60%
+Kewal Kiran Clothing,KKCL.NS,0.59%
+Cipla,CIPLA.NS,0.59%
+Suprajit Engineering,SUPRAJIT.NS,0.58%
+Hester Biosciences,HESTERBIO.NS,0.58%
+Dollar Industries,DOLLAR.NS,0.58%
+Coromandel,COROMANDEL.NS,0.57%
+Samvardhana Motherson,MOTHERSON.NS,0.57%
+Oberoi Realty,OBEROIRLTY.NS,0.56%
+Hindalco Industries,HINDALCO.NS,0.56%
+Hatsun Agro Products,HATSUN.NS,0.55%
+Punjab National Bank,PNB.NS,0.54%
+BSE,BSE.NS,0.54%
+Blue Dart Express,BLUEDART.NS,0.54%
+Abbott India,ABBOTINDIA.NS,0.53%
+Laurus Labs,LAURUSLABS.NS,0.52%
+Quick Heal,QUICKHEAL.NS,0.52%
+Jindal Stainless,JSL.NS,0.52%
+Foseco India,FOSECOIND.NS,0.52%
+Persistent Systems,PERSISTENT.NS,0.51%
+Tata Power,TATAPOWER.NS,0.51%
+Rico Auto Industries,RICOAUTO.NS,0.51%
+Sandhar,SANDHAR.NS,0.51%
+Havells India,HAVELLS.NS,0.51%
+Shalby,SHALBY.NS,0.51%
+Vesuvius India,VESUVIUS.NS,0.50%
+Milkfood Limited,MLKFOOD.BO,0.49%
+Greenpanel Industries,GREENPANEL.NS,0.48%
+Indian Railway Catering & Tourism,IRCTC.NS,0.48%
+Blue Star,BLUESTARCO.NS,0.48%
+Berger Paints,BERGEPAINT.NS,0.48%
+Anup Engineering,ANUP.NS,0.48%
+Somany Ceramics,SOMANYCERA.NS,0.48%
+CEAT,CEATLTD.NS,0.48%
+NBCC India,NBCC.NS,0.47%
+Dalmia Bharat,DALBHARAT.NS,0.47%
+DLF,DLF.NS,0.47%
+Dhampur Sugar Mills,DHAMPURSUG.NS,0.46%
+KEC International,KEC.NS,0.45%
+Grasim Industries,GRASIM.NS,0.45%
+Lux Industries,LUXIND.NS,0.45%
+Cigniti Technologies,CIGNITITEC.NS,0.44%
+Patanjali Foods,PATANJALI.NS,0.44%
+Aurobindo Pharma,AUROPHARMA.NS,0.44%
+VIP Industries,VIPIND.NS,0.44%
+United Breweries,UBL.NS,0.44%
+Bliss GVS Pharma,BLISSGVS.NS,0.44%
+Ratnamani Metals & Tubes,RATNAMANI.NS,0.44%
+Kokuyo Camlin,KOKUYOCMLN.NS,0.43%
+AIA Engineering,AIAENG.NS,0.43%
+Shriram Pistons & Rings,SHRIPISTON.NS,0.43%
+Hikal,HIKAL.NS,0.43%
+Bajaj Electricals,BAJAJELEC.NS,0.43%
+Mahindra Lifespaces,MAHLIFE.NS,0.43%
+JSW Steel,JSWSTEEL.NS,0.42%
+Shree Cement,SHREECEM.NS,0.42%
+V-Guard Industries,VGUARD.NS,0.41%
+Godrej,GODREJCP.NS,0.41%
+Polycab India,POLYCAB.NS,0.40%
+Cantabil Retail India,CANTABIL.NS,0.40%
+Whirlpool India,WHIRLPOOL.NS,0.40%
+JSW Energy,JSWENERGY.NS,0.40%
+Adani Ports & SEZ,ADANIPORTS.NS,0.40%
+UltraTech Cement,ULTRACEMCO.NS,0.40%
+Shankara Building,SHANKARA.NS,0.40%
+Endurance Technologies,ENDURANCE.NS,0.40%
+Asahi India Glass,ASAHIINDIA.NS,0.39%
+Sunteck Realty,SUNTECK.NS,0.39%
+Pidilite,PIDILITIND.NS,0.38%
+IndiaMART,INDIAMART.NS,0.38%
+JK Cement,JKCEMENT.NS,0.37%
+India Tourism Development Corp,ITDC.NS,0.37%
+United Spirits,UNITDSPR.BO,0.36%
+Info Edge,NAUKRI.NS,0.36%
+SBI Card,SBICARD.NS,0.36%
+Granules India,GRANULES.NS,0.35%
+KPIT Technologies,KPITTECH.NS,0.35%
+Deepak Nitrite,DEEPAKNTR.NS,0.35%
+Rajesh Exports,RAJESHEXPO.NS,0.35%
+Marksans Pharma,MARKSANS.NS,0.35%
+Zydus Wellness,ZYDUSWELL.NS,0.34%
+Hindustan Copper,HINDCOPPER.NS,0.34%
+Elgi Equipments,ELGIEQUIP.NS,0.34%
+3M India,3MINDIA.NS,0.33%
+BEML,BEML.NS,0.33%
+Bharti Airtel,BHARTIARTL.NS,0.33%
+APL Apollo,APLAPOLLO.NS,0.33%
+Greenlam Industries,GREENLAM.NS,0.32%
+JTEKT India,JTEKTINDIA.NS,0.31%
+Hinduja Global Solutions,HGS.NS,0.31%
+Syrma SGS Technology,SYRMA.NS,0.31%
+Reliance Industries,RELIANCE.NS,0.31%
+PI Industries,PIIND.NS,0.31%
+HDFC Life,HDFCLIFE.NS,0.31%
+Carborundum Universal,CARBORUNIV.NS,0.30%
+Vidhi Specialty Food,VIDHIING.NS,0.30%
+Relaxo Footwear,RELAXO.NS,0.30%
+Astra Microwave,ASTRAMICRO.NS,0.30%
+Nelco,NELCO.NS,0.29%
+Wonderla Holidays,WONDERLA.NS,0.29%
+SRF Limited,SRF.NS,0.29%
+Craftsman Automation,CRAFTSMAN.NS,0.28%
+Titan Company,TITAN.NS,0.28%
+Jubilant FoodWorks,JUBLFOOD.NS,0.27%
+Glenmark Pharmaceuticals,GLENMARK.NS,0.27%
+EIH Limited,EIHOTEL.NS,0.26%
+Thermax,THERMAX.NS,0.26%
+Honeywell Automation India,HONAUT.NS,0.26%
+Sudarshan Chemical,SUDARSCHEM.NS,0.26%
+UNO Minda,UNOMINDA.NS,0.26%
+Escorts Limited,ESCORTS.NS,0.25%
+BASF India,BASF.NS,0.25%
+Fortis Healthcare,FORTIS.NS,0.25%
+Lupin Limited,LUPIN.NS,0.25%
+Filatex India,FILATEX.NS,0.25%
+Ramco Cements,RAMCOCEM.NS,0.25%
+Jindal Steel & Power,JINDALSTEL.NS,0.24%
+Apollo Hospitals,APOLLOHOSP.NS,0.24%
+CG Power and Industrial Solutions,CGPOWER.NS,0.24%
+Voltamp Transformers,VOLTAMP.NS,0.24%
+Igarashi Motors India,IGARASHI.NS,0.24%
+Aarti Industries,AARTIIND.NS,0.23%
+BLS International,BLS.NS,0.23%
+EaseMyTrip,EASEMYTRIP.NS,0.23%
+Ramkrishna Forgings,RKFORGE.NS,0.23%
+Aarti Drugs,AARTIDRUGS.NS,0.22%
+Fine Organics,FINEORG.NS,0.22%
+Mangalam Cement,MANGLMCEM.NS,0.22%
+Greenply,GREENPLY.NS,0.22%
+Tata Motors,TATAMOTORS.NS,0.21%
+Wipro,WIT,0.21%
+Siemens India,SIEMENS.NS,0.20%
+Strides Pharma,STAR.NS,0.20%
+Phoenix Mills,PHOENIXLTD.NS,0.20%
+Astral Poly Technik,ASTRAL.NS,0.19%
+ABB India,ABB.NS,0.19%
+Subros,SUBROS.NS,0.19%
+Radico Khaitan,RADICO.NS,0.19%
+Cholamandalam Investment and Finance,CHOLAFIN.NS,0.19%
+eMudhra,EMUDHRA.NS,0.18%
+Ashiana Housing,ASHIANA.NS,0.18%
+Indian Hotels Company,INDHOTEL.NS,0.18%
+Lodha Group,LODHA.NS,0.18%
+AU Small Finance Bank,AUBANK.NS,0.18%
+Galaxy Surfactants,GALAXYSURF.NS,0.18%
+Ipca Laboratories,IPCALAB.NS,0.17%
+Raymond,RAYMOND.NS,0.17%
+Larsen & Toubro,LT.NS,0.17%
+MapmyIndia,MAPMYINDIA.NS,0.17%
+Neuland Laboratories,NEULANDLAB.NS,0.17%
+Anant Raj,ANANTRAJ.NS,0.16%
+Oriental Aromatics,OAL.NS,0.16%
+CenturyPly,CENTURYPLY.NS,0.16%
+Paisalo Digital,PAISALO.NS,0.16%
+Prestige Group,PRESTIGE.NS,0.14%
+Force Motors,FORCEMOT.NS,0.14%
+Infibeam Avenues,INFIBEAM.NS,0.14%
+Gokaldas Exports,GOKEX.NS,0.14%
+Astec Lifesciences,ASTEC.NS,0.14%
+Max Healthcare Institute,MAXHEALTH.NS,0.13%
+Madras Rubber Factory,MRF.NS,0.13%
+Bodal Chemicals,BODALCHEM.NS,0.13%
+Safari Industries India,SAFARI.NS,0.13%
+Varun Beverages,VBL.NS,0.13%
+Linde India,LINDEINDIA.NS,0.12%
+Confidence Petroleum,CONFIPET.NS,0.11%
+Syngene International,SYNGENE.NS,0.11%
+Apollo Tyres,APOLLOTYRE.NS,0.11%
+ICICI Prulife,ICICIPRULI.NS,0.10%
+Bajaj Finserv,BAJAJFINSV.NS,0.10%
+HBL Power Systems,HBLPOWER.NS,0.10%
+Knr Constructions,KNRCON.NS,0.10%
+Axis Bank,AXISBANK.BO,0.10%
+Tube Investments of India,TIINDIA.NS,0.09%
+Apollo Pipes,APOLLOPIPE.NS,0.09%
+Texmaco Rail & Engineering,TEXRAIL.NS,0.09%
+Solar Industries India,SOLARINDS.NS,0.09%
+ZF Commercial Vehicle Control Systems India,ZFCVINDIA.NS,0.09%
+Kotak Mahindra Bank,KOTAKBANK.NS,0.09%
+Bombay Burmah,BBTC.NS,0.08%
+Bharat Dynamics,BDL.NS,0.07%
+Action Construction Equipment,ACE.NS,0.07%
+JBM Auto,JBMA.NS,0.07%
+Gujarat Fluorochemicals,FLUOROCHEM.NS,0.06%
+Welspun India,WELSPUNIND.NS,0.06%
+Jindal Worldwide,JINDWORLD.NS,0.06%
+KCP Limited,KCP.NS,0.06%
+Trent Limited,TRENT.NS,0.06%
+Timken India,TIMKEN.NS,0.05%
+Power Mech Projects,POWERMECH.NS,0.04%
+Dixon Technologies,DIXON.NS,0.04%
+eClerx Services,ECLERX.NS,0.04%
+Vadilal Industries,VADILALIND.NS,0.04%
+Adani Enterprises,ADANIENT.NS,0.04%
+Skipper Limited,SKIPPER.NS,0.04%
+Adani Total Gas,ATGL.NS,0.03%
+N.B.I. Industrial Finance,NBIFIN.NS,0.02%
+Olectra Greentech,OLECTRA.NS,0.02%
+Srei Infrastructure Finance,SREINFRA.NS,0.00%
+Parag Milk Foods,PARAGMILK.NS,0.00%
+Reliance Infrastructure,RELINFRA.NS,0.00%
+TCNS Clothing,TCNSBRANDS.NS,0.00%
+Borosil,BORORENEW.NS,0.00%
+PVR Cinemas,PVR.NS,0.00%
+Varroc,VARROC.NS,0.00%
+Mankind Pharma,MANKIND.NS,0.00%
+SBI Life Insurance,SBILIFE.NS,0.00%
+Spandana Sphoorty Financial,SPANDANA.NS,0.00%
+Avalon Technologies,AVALON.NS,0.00%
+Spencer's Retail,SPENCERS.NS,0.00%
+MakeMyTrip,MMYT,0.00%
+ReNew Power,RNW,0.00%
+KFin Technologies,KFINTECH.NS,0.00%
+Tata Teleservices,TTML.NS,0.00%
+Prime Focus,PFOCUS.NS,0.00%
+Hinduja Ventures,NXTDIGITAL.NS,0.00%
+Godrej Properties,GODREJPROP.NS,0.00%
+Sequent Scientific,SEQUENT.NS,0.00%
+Gati,GATI.NS,0.00%
+Hindustan Oil Exploration Company,HINDOILEXP.NS,0.00%
+Adani Wilmar,AWL.NS,0.00%
+PB Fintech,POLICYBZR.NS,0.00%
+Piramal Pharma,PPLPHARMA.NS,0.00%
+Sanghi Industries,SANGHIIND.NS,0.00%
+GMR Group,GMRINFRA.NS,0.00%
+Adani Energy Solutions,ADANIENSOL.NS,0.00%
+Aavas Financiers,AAVAS.NS,0.00%
+Dish TV,DISHTV.NS,0.00%
+IDFC FIRST Bank,IDFCFIRSTB.NS,0.00%
+JSW Holdings,JSWHL.NS,0.00%
+Jio Financial Services,JIOFIN.NS,0.00%
+KIOCL,KIOCL.NS,0.00%
+Ethos Watches,ETHOSLTD.NS,0.00%
+Balaji Telefilms,BALAJITELE.NS,0.00%
+MEP Infrastructure,MEP.NS,0.00%
+GE Power India,GEPIL.NS,0.00%
+Yes Bank,YESBANK.NS,0.00%
+IIFL Wealth Management,IIFLWAM.NS,0.00%
+Black Box,BBOX.NS,0.00%
+Kellton Tech Solutions,KELLTONTEC.NS,0.00%
+Coffee Day Enterprises,COFFEEDAY.NS,0.00%
+Suzlon,SUZLON.NS,0.00%
+Ashoka Buildcon,ASHOKA.NS,0.00%
+JCI Hitachi India,JCHAC.NS,0.00%
+Federal-Mogul Goetze,FMGOETZE.NS,0.00%
+SPARC,SPARC.NS,0.00%
+Zomato,ZOMATO.NS,0.00%
+FDC India,FDC.NS,0.00%
+Indorama Synthetics,INDORAMA.NS,0.00%
+Mirza International,MIRZAINT.NS,0.00%
+Omaxe,OMAXE.NS,0.00%
+Adani Power,ADANIPOWER.NS,0.00%
+Zee Entertainment,ZEEL.NS,0.00%
+Prince Pipes And Fittings,PRINCEPIPE.NS,0.00%
+Hindustan Construction Company,HCC.NS,0.00%
+Ebixcash India,EBIXFOREX.NS,0.00%
+VA Tech Wabag,WABAG.NS,0.00%
+GTL Infrastructure,GTLINFRA.NS,0.00%
+Max Financial Services,MFSL.NS,0.00%
+RattanIndia Power,RTNPOWER.NS,0.00%
+Unitech Group,UNITECH.NS,0.00%
+Indian Overseas Bank,IOB.NS,0.00%
+Religare,RELIGARE.NS,0.00%
+Paytm,PAYTM.NS,0.00%
+Hindustan Sanitaryware & Industries,HSIL.NS,0.00%
+IFB Industries,IFBIND.NS,0.00%
+Vodafone Idea,IDEA.NS,0.00%
+WNS,WNS,0.00%
+Nectar Lifesciences,NECLIFE.NS,0.00%
+Tata Steel Long Products,TATASTLLP.NS,0.00%
+Jindal Stainless (Hisar),JSLHISAR.NS,0.00%
+Gallantt Ispat,GALLISPAT.NS,0.00%
+Jaypee Group,JPASSOCIAT.NS,0.00%
+DMart,DMART.NS,0.00%
+Nazara Technologies,NAZARA.NS,0.00%
+CSB Bank,CSBBANK.NS,0.00%
+Imagicaaworld Entertainment,IMAGICAA.NS,0.00%
+3i Infotech,3IINFOLTD.NS,0.00%
+NCC Limited,NCC.NS,0.00%
+Indian Telephone Industries,ITI.NS,0.00%
+MMTC,MMTC.NS,0.00%
+Nykaa,NYKAA.NS,0.00%
+IDFC,IDFC.NS,0.00%
+Jump Networks,JUMPNET.NS,0.00%
+Prakash Industries,PRAKASH.NS,0.00%
+Devyani International,DEVYANI.NS,0.00%
+Adani Green Energy,ADANIGREEN.NS,0.00%
+Reliance Power,RPOWER.NS,0.00%
+INEOS Styrolution,INEOSSTYRO.NS,0.00%
+Sheela Foam,SFL.NS,0.00%
+Sify,SIFY,0.00%
+Zee Learn,ZEELEARN.NS,0.00%
+Barbeque Nation Hospitality,BARBEQUE.NS,0.00%
+Alok Industries,ALOKINDS.NS,0.00%
+Asian Granito India,ASIANTILES.NS,0.00%
+Schneider Electric Infrastructure,SCHNEIDER.NS,0.00%
+Hathway,HATHWAY.NS,0.00%
+Delhivery,DELHIVERY.NS,0.00%
+Future Retail,FRETAIL.NS,0.00%
+Yatra,YTRA,0.00%
+Chalet Hotels,CHALET.NS,0.00%
+Allcargo Logistics,ALLCARGO.NS,0.00%
+Modern Dairies Limited,MODAIRY.BO,0.00%
+SpiceJet,SPICEJET.BO,0.00%
+Capacit'e Infraprojects,CAPACITE.NS,0.00%
+Network18,NETWORK18.NS,0.00%
+SML Isuzu,SMLISUZU.NS,0.00%
+Radio City,RADIOCITY.NS,0.00%
+Hindustan Media Ventures,HMVL.NS,0.00%
+Tejas Networks,TEJASNET.NS,0.00%
+Aditya Birla Capital,ABCAPITAL.NS,0.00%
+Navkar Corp,NAVKARCORP.NS,0.00%
+Central Bank of India,CENTRALBK.NS,0.00%
+Indus Towers,INDUSTOWER.NS,0.00%
+Amber Enterprises India,AMBER.NS,0.00%
+Campus Activewear,CAMPUS.NS,0.00%
+Himatsingka Seide,HIMATSEIDE.NS,0.00%
+sterling & wilson solar,SWSOLAR.NS,0.00%
+Gland Pharma,GLAND.NS,0.00%
+Future Supply Chain Solutions,FSC.NS,0.00%
+Aether Industries,AETHER.NS,0.00%
+Inox Wind,INOXWIND.NS,0.00%
+Reliance Communications,RCOM.NS,0.00%
+Mahanagar Telephone Nigam,MTNL.NS,0.00%
+Kingfa Science & Technology,KINGFA.NS,0.00%
+Jagran Prakashan,JAGRAN.NS,0.00%
+Azure Power,AZREF,0.00%
+Jain Irrigation Systems,JISLDVREQS.NS,0.00%
+TVS Motor,TVSMOTOR.NS,0.00%
+InterGlobe Aviation,INDIGO.NS,0.00%

@@ -1,2 +1,0 @@
-urls from which data will be extrcted
-"https://companiesmarketcap.com/india/largest-companies-in-india-by-market-cap/?page=8"

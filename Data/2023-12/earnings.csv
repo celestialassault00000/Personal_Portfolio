@@ -1,0 +1,572 @@
+company_names,company_code,earnings
+Reliance Industries,RELIANCE.NS,$12.22 B
+State Bank of India,SBIN.NS,$10.39 B
+HDFC Bank,HDB,$9.24 B
+Oil & Natural Gas,ONGC.NS,$9.18 B
+Tata Consultancy Services,TCS.NS,$7.42 B
+ICICI Bank,IBN,$5.68 B
+Indian Oil,IOC.NS,$5.39 B
+Life Insurance Corporation of India (LIC),LICI.NS,$4.91 B
+Coal India,COALINDIA.NS,$4.67 B
+Bharat Petroleum,BPCL.NS,$4.65 B
+NTPC Limited,NTPC.NS,$4.57 B
+Bajaj Finserv,BAJAJFINSV.NS,$4.48 B
+Infosys,INFY,$4.04 B
+Power Finance Corp,PFC.NS,$3.84 B
+Vedanta,VEDL.NS,$3.51 B
+Powergrid Corporation of India,POWERGRID.NS,$3.30 B
+ITC,ITC.NS,$3.29 B
+Hindustan Petroleum,HINDPETRO.NS,$2.96 B
+Larsen & Toubro,LT.NS,$2.83 B
+Kotak Mahindra Bank,KOTAKBANK.NS,$2.79 B
+Tata Motors,TATAMOTORS.NS,$2.77 B
+Mahindra & Mahindra,M&M.NS,$2.71 B
+Axis Bank,AXISBANK.BO,$2.65 B
+HCL Technologies,HCLTECH.NS,$2.46 B
+Bank of Baroda,BANKBARODA.NS,$2.45 B
+Union Bank of India,UNIONBANK.NS,$2.43 B
+Canara Bank,CANBK.NS,$2.33 B
+Bajaj Finance,BAJFINANCE.NS,$2.23 B
+Adani Power,ADANIPOWER.NS,$2.22 B
+Hindalco Industries,HINDALCO.NS,$2.01 B
+Rural Electrification Corp,RECLTD.NS,$2.01 B
+Wipro,WIT,$1.99 B
+Maruti Suzuki India,MARUTI.NS,$1.90 B
+JSW Steel,JSWSTEEL.NS,$1.89 B
+Bharti Airtel,BHARTIARTL.NS,$1.80 B
+Hindustan Unilever,HINDUNILVR.NS,$1.72 B
+Grasim Industries,GRASIM.NS,$1.59 B
+Hindustan Zinc,HINDZINC.NS,$1.44 B
+IndusInd Bank,INDUSINDBK.NS,$1.40 B
+Adani Ports & SEZ,ADANIPORTS.NS,$1.39 B
+InterGlobe Aviation,INDIGO.NS,$1.35 B
+Indian Railway Finance,IRFC.NS,$1.35 B
+Punjab National Bank,PNB.NS,$1.33 B
+Sun Pharmaceutical,SUNPHARMA.NS,$1.27 B
+UltraTech Cement,ULTRACEMCO.NS,$1.16 B
+Bajaj Auto,BAJAJ-AUTO.NS,$1.16 B
+Bank of India,BANKINDIA.NS,$1.14 B
+Indian Bank,INDIANB.NS,$1.14 B
+GAIL,GAIL.NS,$1.10 B
+Shriram Transport Finance,SHRIRAMFIN.NS,$1.09 B
+Adani Enterprises,ADANIENT.NS,$1.08 B
+National Mineral Development Corporation,NMDC.NS,$1.08 B
+Oil India,OIL.NS,$1.05 B
+Tata Steel,TATASTEEL.NS,$0.95 B
+General Insurance Corporation of India,GICRE.NS,$0.95 B
+Asian Paints,ASIANPAINT.NS,$0.89 B
+Hindustan Aeronautics,HAL.NS,$0.88 B
+Dr. Reddy's,RDY,$0.85 B
+Jindal Steel & Power,JINDALSTEL.NS,$0.82 B
+Ashok Leyland,ASHOKLEY.NS,$0.79 B
+LTIMindtree,LTIM.NS,$0.75 B
+IDBI Bank,IDBI.NS,$0.74 B
+Bajaj Holdings & Investment,BAJAJHLDNG.NS,$0.74 B
+LIC Housing Finance,LICHSGFIN.NS,$0.73 B
+Muthoot Finance,MUTHOOTFIN.NS,$0.69 B
+Tata Power,TATAPOWER.NS,$0.64 B
+Cipla,CIPLA.NS,$0.63 B
+Federal Bank,FEDERALBNK.NS,$0.63 B
+Titan Company,TITAN.NS,$0.62 B
+Petronet LNG,PETRONET.NS,$0.62 B
+Jindal Stainless,JSL.NS,$0.61 B
+Eicher Motors,EICHERMOT.NS,$0.60 B
+Hero MotoCorp,HEROMOTOCO.NS,$0.59 B
+Samvardhana Motherson,MOTHERSON.NS,$0.59 B
+Bharat Electronics,BEL.NS,$0.57 B
+Indus Towers,INDUSTOWER.NS,$0.56 B
+Ambuja Cements,AMBUJACEM.NS,$0.55 B
+Adani Energy Solutions,ADANIENSOL.NS,$0.54 B
+Chennai Petroleum,CHENNPETRO.NS,$0.54 B
+NHPC Limited,NHPC.NS,$0.53 B
+Cholamandalam Investment and Finance,CHOLAFIN.NS,$0.52 B
+Tech Mahindra,TECHM.NS,$0.50 B
+Steel Authority of India,SAIL.NS,$0.50 B
+Nestlé India,NESTLEIND.NS,$0.50 B
+Aurobindo Pharma,AUROPHARMA.NS,$0.49 B
+Bank of Maharashtra,MAHABANK.NS,$0.48 B
+Bandhan Bank,BANDHANBNK.NS,$0.47 B
+IDFC FIRST Bank,IDFCFIRSTB.NS,$0.46 B
+Zydus Lifesciences,ZYDUSLIFE.NS,$0.46 B
+Aditya Birla Capital,ABCAPITAL.NS,$0.46 B
+Religare,RELIGARE.NS,$0.45 B
+Torrent Power,TORNTPOWER.NS,$0.42 B
+Prestige Group,PRESTIGE.NS,$0.41 B
+JSW Energy,JSWENERGY.NS,$0.40 B
+DMart,DMART.NS,$0.40 B
+SBI Card,SBICARD.NS,$0.38 B
+Madras Rubber Factory,MRF.NS,$0.37 B
+Britannia Industries,BRITANNIA.NS,$0.37 B
+BOSCH India,BOSCHLTD.NS,$0.37 B
+Apollo Tyres,APOLLOTYRE.NS,$0.36 B
+Shree Cement,SHREECEM.NS,$0.35 B
+Indian Overseas Bank,IOB.NS,$0.34 B
+Tata Chemicals,TATACHEM.NS,$0.33 B
+Hudco,HUDCO.NS,$0.33 B
+Varun Beverages,VBL.NS,$0.33 B
+Siemens India,SIEMENS.NS,$0.32 B
+Biocon,BIOCON.NS,$0.32 B
+Godrej,GODREJCP.NS,$0.32 B
+NLC India,NLCINDIA.NS,$0.32 B
+IIFL Finance,IIFL.NS,$0.31 B
+Oberoi Realty,OBEROIRLTY.NS,$0.31 B
+Sun TV Network,SUNTV.NS,$0.31 B
+Central Bank of India,CENTRALBK.NS,$0.30 B
+TVS Motor,TVSMOTOR.NS,$0.30 B
+Torrent Pharmaceuticals,TORNTPHARM.NS,$0.30 B
+East India Distilleries Parry,EIDPARRY.NS,$0.30 B
+Indraprastha Gas,IGL.NS,$0.30 B
+Lupin Limited,LUPIN.NS,$0.29 B
+Coromandel,COROMANDEL.NS,$0.29 B
+ICICI Lombard,ICICIGI.NS,$0.29 B
+Dabur,DABUR.NS,$0.29 B
+Pidilite,PIDILITIND.NS,$0.28 B
+Mankind Pharma,MANKIND.NS,$0.27 B
+SRF Limited,SRF.NS,$0.26 B
+Mphasis,MPHASIS.NS,$0.26 B
+Polycab India,POLYCAB.NS,$0.26 B
+ACC,ACC.NS,$0.25 B
+AU Small Finance Bank,AUBANK.NS,$0.25 B
+Redington India,REDINGTON.NS,$0.24 B
+Karur Vysya Bank,KARURVYSYA.NS,$0.23 B
+Cummins India,CUMMINSIND.NS,$0.23 B
+Alkem Laboratories,ALKEM.NS,$0.23 B
+Indian Hotels Company,INDHOTEL.NS,$0.23 B
+Lodha Group,LODHA.NS,$0.23 B
+Jindal Stainless (Hisar),JSLHISAR.NS,$0.23 B
+Divis Laboratories,DIVISLAB.NS,$0.23 B
+SBI Life Insurance,SBILIFE.NS,$0.23 B
+National Aluminum & Alloy,NATIONALUM.NS,$0.23 B
+Tata Communications,TATACOMM.NS,$0.22 B
+Phoenix Mills,PHOENIXLTD.NS,$0.22 B
+Tata Consumer Products,TATACONSUM.NS,$0.22 B
+PI Industries,PIIND.NS,$0.22 B
+L&T Technology Services,LTTS.NS,$0.21 B
+Marico,MARICO.NS,$0.21 B
+Chambal Fertilisers,CHAMBLFERT.NS,$0.21 B
+WNS,WNS,$0.21 B
+DLF,DLF.NS,$0.21 B
+Mahanagar Gas,MGL.NS,$0.20 B
+Raymond,RAYMOND.NS,$0.20 B
+GMR Group,GMRINFRA.NS,$0.20 B
+Colgate-Palmolive India,COLPAL.NS,$0.20 B
+Tube Investments of India,TIINDIA.NS,$0.20 B
+Bharat Forge,BHARATFORG.NS,$0.20 B
+Container Corporation of India,CONCOR.NS,$0.20 B
+Karnataka Bank,KTKBANK.NS,$0.20 B
+IDFC,IDFC.NS,$0.20 B
+United Spirits,UNITDSPR.BO,$0.20 B
+ABB India,ABB.NS,$0.20 B
+Apollo Hospitals,APOLLOHOSP.NS,$0.20 B
+South Indian Bank,SOUTHBANK.NS,$0.20 B
+Balkrishna Industries,BALKRISIND.NS,$0.19 B
+Indiabulls Housing Finance,IBULHSGFIN.NS,$0.19 B
+Havells India,HAVELLS.NS,$0.19 B
+Berger Paints,BERGEPAINT.NS,$0.19 B
+Adani Green Energy,ADANIGREEN.NS,$0.19 B
+SJVN,SJVN.NS,$0.18 B
+Abbott India,ABBOTINDIA.NS,$0.18 B
+Nerolac Paints,KANSAINER.NS,$0.18 B
+Natco Pharma,NATCOPHARM.NS,$0.18 B
+Indian Railway Catering & Tourism,IRCTC.NS,$0.18 B
+Gujarat Gas,GUJGASLTD.NS,$0.18 B
+AIA Engineering,AIAENG.NS,$0.18 B
+Dalmia Bharat,DALBHARAT.NS,$0.17 B
+Punjab & Sind Bank,PSB.NS,$0.17 B
+Persistent Systems,PERSISTENT.NS,$0.17 B
+JK Cement,JKCEMENT.NS,$0.17 B
+Supreme Industries,SUPREMEIND.NS,$0.16 B
+HDFC Life,HDFCLIFE.NS,$0.16 B
+Escorts Limited,ESCORTS.NS,$0.16 B
+Max Healthcare Institute,MAXHEALTH.NS,$0.16 B
+West Coast Paper Mills,WSTCSTPAPR.NS,$0.16 B
+Exide Industries,EXIDEIND.NS,$0.15 B
+IIFL Wealth Management,IIFLWAM.NS,$0.15 B
+Solar Industries India,SOLARINDS.NS,$0.15 B
+RBL Bank,RBLBANK.NS,$0.15 B
+Godawari Power & Ispat,GPIL.NS,$0.14 B
+Schaeffler India,SCHAEFFLER.NS,$0.14 B
+Gujarat Mineral Development,GMDCLTD.NS,$0.14 B
+City Union Bank,CUB.NS,$0.14 B
+CG Power and Industrial Solutions,CGPOWER.NS,$0.13 B
+UNO Minda,UNOMINDA.NS,$0.13 B
+Mahindra CIE,MAHINDCIE.NS,$0.13 B
+Kalpataru Power Transmission,KALPATPOWR.NS,$0.13 B
+Yes Bank,YESBANK.NS,$0.13 B
+New India Assurance,NIACL.NS,$0.13 B
+Amara Raja Batteries,AMARAJABAT.NS,$0.13 B
+Deepak Nitrite,DEEPAKNTR.NS,$0.13 B
+Apar Industries,APARINDS.NS,$0.13 B
+Trent Limited,TRENT.NS,$0.12 B
+Tata Elxsi,TATAELXSI.NS,$0.12 B
+Godrej Properties,GODREJPROP.NS,$0.12 B
+Graphite India,GRAPHITE.NS,$0.12 B
+Bayer Crop Science,BAYERCROP.NS,$0.12 B
+APL Apollo,APLAPOLLO.NS,$0.12 B
+Ipca Laboratories,IPCALAB.NS,$0.12 B
+Coforge,COFORGE.NS,$0.12 B
+Patanjali Foods,PATANJALI.NS,$0.12 B
+ICICI Prulife,ICICIPRULI.NS,$0.12 B
+NCC Limited,NCC.NS,$0.12 B
+Electrosteel Castings,ELECTCAST.NS,$0.11 B
+Cyient,CYIENT.NS,$0.11 B
+KEC International,KEC.NS,$0.11 B
+Gland Pharma,GLAND.NS,$0.11 B
+Procter & Gamble India,PGHH.NS,$0.11 B
+Bombay Burmah,BBTC.NS,$0.11 B
+Rajesh Exports,RAJESHEXPO.NS,$0.11 B
+Ramco Cements,RAMCOCEM.NS,$0.11 B
+BSE,BSE.NS,$0.11 B
+Gujarat Fluorochemicals,FLUOROCHEM.NS,$0.10 B
+Thermax,THERMAX.NS,$0.10 B
+Ratnamani Metals & Tubes,RATNAMANI.NS,$0.10 B
+Fortis Healthcare,FORTIS.NS,$0.10 B
+CEAT,CEATLTD.NS,$0.10 B
+DCM Shriram,DCMSHRIRAM.NS,$0.10 B
+CRISIL,CRISIL.NS,$0.10 B
+Sanofi India Limited,SANOFI.NS,$0.10 B
+Finolex Cables,FINCABLES.NS,$0.10 B
+Adani Total Gas,ATGL.NS,$99.91 M
+Zensar,ZENSARTECH.NS,$97.84 M
+Endurance Technologies,ENDURANCE.NS,$96.68 M
+Astral Poly Technik,ASTRAL.NS,$94.28 M
+Emami,EMAMILTD.NS,$92.99 M
+CSB Bank,CSBBANK.NS,$92.74 M
+PCBL Limited,PCBL.NS,$92.69 M
+Page Industries,PAGEIND.NS,$92.67 M
+PTC India,PTC.NS,$92.53 M
+Force Motors,FORCEMOT.NS,$89.69 M
+3M India,3MINDIA.NS,$88.92 M
+EIH Limited,EIHOTEL.NS,$87.46 M
+Blue Star,BLUESTARCO.NS,$86.84 M
+RITES,RITES.NS,$86.68 M
+KPIT Technologies,KPITTECH.NS,$86.13 M
+eClerx Services,ECLERX.NS,$85.64 M
+Suzlon,SUZLON.NS,$85.46 M
+Trident,TRIDENT.NS,$84.66 M
+Knr Constructions,KNRCON.NS,$84.14 M
+Reliance Power,RPOWER.NS,$83.11 M
+TANLA,TANLA.NS,$82.55 M
+SKF India,SKFINDIA.NS,$82.06 M
+Syngene International,SYNGENE.NS,$81.95 M
+Finolex Industries,FINPIPE.NS,$81.35 M
+Carborundum Universal,CARBORUNIV.NS,$79.93 M
+BASF India,BASF.NS,$78.8 M
+Bharat Dynamics,BDL.NS,$78.12 M
+Adani Wilmar,AWL.NS,$78.09 M
+Spandana Sphoorty Financial,SPANDANA.NS,$77.75 M
+Tamil Nadu Newsprint and Papers Limited,TNPL.NS,$76.99 M
+Honeywell Automation India,HONAUT.NS,$76.52 M
+Welspun India,WELSPUNIND.NS,$76.18 M
+Alembic Pharmaceuticals,APLLTD.NS,$75.56 M
+Aavas Financiers,AAVAS.NS,$72.65 M
+Fine Organics,FINEORG.NS,$72.18 M
+Ashoka Buildcon,ASHOKA.NS,$71.53 M
+Elgi Equipments,ELGIEQUIP.NS,$70.96 M
+Kajaria Ceramics,KAJARIACER.NS,$69.77 M
+Linde India,LINDEINDIA.NS,$69.73 M
+Kirloskar Ferrous Industries,KIRLFER.NS,$69.72 M
+Voltas,VOLTAS.NS,$69.61 M
+Crompton Greaves Consumer Electricals,CROMPTON.NS,$69.6 M
+Hindustan Construction Company,HCC.NS,$68.75 M
+Engineers India,ENGINERSIN.NS,$68.56 M
+Asahi India Glass,ASAHIINDIA.NS,$67.75 M
+Shriram Pistons & Rings,SHRIPISTON.NS,$66.84 M
+ZF Commercial Vehicle Control Systems India,ZFCVINDIA.NS,$66.52 M
+Indian Metals & Ferro Alloys,IMFA.NS,$66.29 M
+Vedant Fashions,MANYAVAR.NS,$66.05 M
+Surya Roshni,SURYAROSNI.NS,$65.9 M
+Dixon Technologies,DIXON.NS,$65.38 M
+ReNew Power,RNW,$64.93 M
+Granules India,GRANULES.NS,$64.76 M
+Max Financial Services,MFSL.NS,$64.33 M
+Grindwell Norton,GRINDWELL.NS,$64 M
+Huhtamaki India,HUHTAMAKI.NS,$63.86 M
+Chalet Hotels,CHALET.NS,$62.9 M
+NBCC India,NBCC.NS,$61.94 M
+Rashtriya Chemicals and Fertilizers,RCF.NS,$61.55 M
+Dr Lal PathLabs,LALPATHLAB.NS,$60.55 M
+Repco Home Finance,REPCOHOME.NS,$60.3 M
+Atul,ATUL.NS,$60.25 M
+Time Technoplast,TIMETECHNO.NS,$58.86 M
+CenturyPly,CENTURYPLY.NS,$58.75 M
+Piramal Pharma,PPLPHARMA.NS,$57.89 M
+Sudarshan Chemical,SUDARSCHEM.NS,$57.78 M
+"Sumitomo Chemical
+India",SUMICHEM.NS,$57.58 M
+Puravankara,PURVA.NS,$57.57 M
+HEG,HEG.NS,$57.5 M
+Timken India,TIMKEN.NS,$57.48 M
+Bata India,BATAINDIA.NS,$56.86 M
+CDSL,CDSL.NS,$56.74 M
+United Breweries,UBL.NS,$55.01 M
+Sterlite Technologies,STLTECH.NS,$54.83 M
+Indian Energy Exchange,IEX.NS,$54.82 M
+Craftsman Automation,CRAFTSMAN.NS,$53.53 M
+Varroc,VARROC.NS,$53.23 M
+Ramkrishna Forgings,RKFORGE.NS,$52.91 M
+Arvind,ARVIND.NS,$52.56 M
+Marksans Pharma,MARKSANS.NS,$52.37 M
+Power Mech Projects,POWERMECH.NS,$52.33 M
+Himatsingka Seide,HIMATSEIDE.NS,$52.09 M
+Mastek,MASTEK.NS,$51.46 M
+Neuland Laboratories,NEULANDLAB.NS,$50.74 M
+MakeMyTrip,MMYT,$50.29 M
+Galaxy Surfactants,GALAXYSURF.NS,$50.15 M
+Zee Entertainment,ZEEL.NS,$49.21 M
+Aarti Industries,AARTIIND.NS,$49.04 M
+Hindustan Copper,HINDCOPPER.NS,$48.58 M
+IndiaMART,INDIAMART.NS,$48.38 M
+Allcargo Logistics,ALLCARGO.NS,$48.36 M
+Jain Irrigation Systems,JISLDVREQS.NS,$48.3 M
+Transport Corporation of India,TCI.NS,$47.16 M
+Tata Teleservices,TTML.NS,$46.85 M
+Blue Dart Express,BLUEDART.NS,$46.5 M
+Gulf Oil Lubricants,GULFOILLUB.NS,$46.13 M
+Voltamp Transformers,VOLTAMP.NS,$46 M
+FDC India,FDC.NS,$45.97 M
+Praj Industries,PRAJIND.NS,$45.45 M
+Kalyani Steels,KSL.NS,$45.12 M
+Action Construction Equipment,ACE.NS,$44.59 M
+Radico Khaitan,RADICO.NS,$44.53 M
+Edelweiss Financial Services,EDELWEISS.NS,$44.52 M
+Happiest Minds Technologies,HAPPSTMNDS.NS,$43.24 M
+BEML,BEML.NS,$43.04 M
+PDS Multinational,PDSL.NS,$42.97 M
+MOIL,MOIL.NS,$42.6 M
+V-Guard Industries,VGUARD.NS,$42.55 M
+BLS International,BLS.NS,$41.84 M
+MSTC Limited,MSTCLTD.NS,$41.72 M
+INEOS Styrolution,INEOSSTYRO.NS,$41.37 M
+Amber Enterprises India,AMBER.NS,$41.36 M
+Mangalore Chemicals and Fertilizers,MANGCHEFER.NS,$39.36 M
+Gateway Distriparks,GATEWAY.NS,$38.99 M
+Anant Raj,ANANTRAJ.NS,$38.98 M
+Jaypee Group,JPASSOCIAT.NS,$38.77 M
+KFin Technologies,KFINTECH.NS,$38.73 M
+Hatsun Agro Products,HATSUN.NS,$38.69 M
+Hindustan Oil Exploration Company,HINDOILEXP.NS,$38.3 M
+Jubilant FoodWorks,JUBLFOOD.NS,$37.95 M
+Cera Sanitaryware,CERA.NS,$37.52 M
+HBL Power Systems,HBLPOWER.NS,$37.36 M
+Delta Corp,DELTACORP.NS,$37.07 M
+Orient Cement,ORIENTCEM.NS,$36.92 M
+Kaveri Seed,KSCL.NS,$36.87 M
+Ingersoll Rand India,INGERRAND.NS,$36.77 M
+Whirlpool India,WHIRLPOOL.NS,$36.38 M
+KCP Limited,KCP.NS,$36.31 M
+Prince Pipes And Fittings,PRINCEPIPE.NS,$36.23 M
+Tata Coffee,TATACOFFEE.NS,$35.99 M
+Kuantum Papers,KUANTUM.NS,$34.9 M
+Siyaram Silk Mills,SIYSIL.NS,$34.68 M
+KSB ltd,KSB.NS,$34.56 M
+Sheela Foam,SFL.NS,$34.23 M
+Aarti Drugs,AARTIDRUGS.NS,$33.63 M
+Southern Petrochemical Industries Corp,SPIC.NS,$33.55 M
+Laurus Labs,LAURUSLABS.NS,$33.51 M
+Nucleus Software Exports,NUCLEUS.NS,$33.5 M
+Relaxo Footwear,RELAXO.NS,$33.01 M
+Prakash Industries,PRAKASH.NS,$32.97 M
+Vesuvius India,VESUVIUS.NS,$32.25 M
+Jagran Prakashan,JAGRAN.NS,$32.15 M
+Info Edge,NAUKRI.NS,$31.98 M
+Black Box,BBOX.NS,$31.91 M
+Zydus Wellness,ZYDUSWELL.NS,$30.99 M
+Greenpanel Industries,GREENPANEL.NS,$30.86 M
+Devyani International,DEVYANI.NS,$30.53 M
+Cigniti Technologies,CIGNITITEC.NS,$30.43 M
+Quess,QUESS.NS,$30.1 M
+Dhampur Sugar Mills,DHAMPURSUG.NS,$29.52 M
+Heidelbergcement India,HEIDELBERG.NS,$29.36 M
+PTC Financial Services,PFS.NS,$29.19 M
+Automotive Axles,AUTOAXLES.NS,$28.07 M
+Gabriel India,GABRIEL.NS,$27.79 M
+Wonderla Holidays,WONDERLA.NS,$27.77 M
+Bajaj Electricals,BAJAJELEC.NS,$27.63 M
+Sify,SIFY,$27.12 M
+Safari Industries India,SAFARI.NS,$27.09 M
+Hinduja Global Solutions,HGS.NS,$26.97 M
+VRL Logistics,VRLLOG.NS,$26.84 M
+Paisalo Digital,PAISALO.NS,$26.51 M
+Greenlam Industries,GREENLAM.NS,$26.32 M
+ESAB India,ESABINDIA.NS,$26.26 M
+Schneider Electric Infrastructure,SCHNEIDER.NS,$26.16 M
+India Glycols,INDIAGLYCO.NS,$25.83 M
+Suprajit Engineering,SUPRAJIT.NS,$25.71 M
+JBM Auto,JBMA.NS,$25.39 M
+EaseMyTrip,EASEMYTRIP.NS,$25.34 M
+Syrma SGS Technology,SYRMA.NS,$24.44 M
+Infibeam Avenues,INFIBEAM.NS,$24.09 M
+Kewal Kiran Clothing,KKCL.NS,$24 M
+Hindustan Sanitaryware & Industries,HSIL.NS,$23.59 M
+Mishra Dhatu Nigam,MIDHANI.NS,$23.26 M
+Gokaldas Exports,GOKEX.NS,$23.12 M
+Vaibhav Global,VAIBHAVGBL.NS,$23.03 M
+Imagicaaworld Entertainment,IMAGICAA.NS,$22.91 M
+MM Forgings,MMFL.NS,$22.39 M
+Nilkamal,NILKAMAL.NS,$21.46 M
+Tide Water Oil,TIDEWATER.NS,$21.31 M
+Accelya,ACCELYA.NS,$21.23 M
+Kingfa Science & Technology,KINGFA.NS,$20.95 M
+Somany Ceramics,SOMANYCERA.NS,$20.57 M
+Vadilal Industries,VADILALIND.NS,$20.41 M
+Vst Tillers Tractors,VSTTILLERS.NS,$20.23 M
+Federal-Mogul Goetze,FMGOETZE.NS,$20.2 M
+Aether Industries,AETHER.NS,$20.16 M
+MPS Limited,MPSLTD.NS,$19.97 M
+MapmyIndia,MAPMYINDIA.NS,$19.66 M
+Monte Carlo Fashions,MONTECARLO.NS,$19.22 M
+Confidence Petroleum,CONFIPET.NS,$19.01 M
+JSW Holdings,JSWHL.NS,$18.98 M
+Parag Milk Foods,PARAGMILK.NS,$18.89 M
+Geojit Financial Services,GEOJITFSL.NS,$18.78 M
+Gallantt Ispat,GALLISPAT.NS,$18.66 M
+Cosmo First,COSMOFIRST.NS,$18.61 M
+Jindal Worldwide,JINDWORLD.NS,$18.24 M
+VIP Industries,VIPIND.NS,$17.82 M
+CARE's Ratings,CARERATING.NS,$17.69 M
+Symphony Limited,SYMPHONY.NS,$17.63 M
+MMTC,MMTC.NS,$17.59 M
+Hikal,HIKAL.NS,$17.39 M
+Greenply,GREENPLY.NS,$17.26 M
+Indoco Remedies,INDOCO.NS,$17.16 M
+The Tinplate Company Of India,TINPLATE.NS,$17.1 M
+Lumax Industries,LUMAXIND.NS,$16.97 M
+Lux Industries,LUXIND.NS,$16.55 M
+Shalby,SHALBY.NS,$16.54 M
+Jubilant Pharmova,JUBLPHARMA.NS,$16.48 M
+Nykaa,NYKAA.NS,$16.43 M
+Sandhar,SANDHAR.NS,$16.4 M
+Orient Electric,ORIENTELEC.NS,$16.29 M
+JTEKT India,JTEKTINDIA.NS,$16.08 M
+Capacit'e Infraprojects,CAPACITE.NS,$15.75 M
+Subros,SUBROS.NS,$15.65 M
+Mangalam Cement,MANGLMCEM.NS,$15.64 M
+Filatex India,FILATEX.NS,$15.52 M
+Orient Paper Mills,ORIENTPPR.NS,$15.4 M
+Polyplex,POLYPLEX.NS,$15.15 M
+Bliss GVS Pharma,BLISSGVS.NS,$14.84 M
+Rico Auto Industries,RICOAUTO.NS,$14.83 M
+I.g. Petrochemicals,IGPL.NS,$14.64 M
+Olectra Greentech,OLECTRA.NS,$14.61 M
+Strides Pharma,STAR.NS,$14.33 M
+Texmaco Rail & Engineering,TEXRAIL.NS,$14.29 M
+GTPL Hathway,GTPL.NS,$14.24 M
+Ethos Watches,ETHOSLTD.NS,$14.1 M
+VA Tech Wabag,WABAG.NS,$13.91 M
+Skipper Limited,SKIPPER.NS,$13.8 M
+Honda Siel Power Products,HONDAPOWER.NS,$13.52 M
+RPG Life Sciences,RPGLIFE.NS,$13.25 M
+Nazara Technologies,NAZARA.NS,$12.96 M
+SML Isuzu,SMLISUZU.NS,$12.88 M
+Campus Activewear,CAMPUS.NS,$12.87 M
+Astra Microwave,ASTRAMICRO.NS,$12.72 M
+Rane Holdings,RANEHOLDIN.NS,$12.54 M
+Anup Engineering,ANUP.NS,$12.35 M
+Shankara Building,SHANKARA.NS,$12.32 M
+India Tourism Development Corp,ITDC.NS,$12.14 M
+India Motor Parts and Accessories,IMPAL.NS,$11.72 M
+Ashiana Housing,ASHIANA.NS,$11.68 M
+Nectar Lifesciences,NECLIFE.NS,$11.44 M
+Sasken Technologies,SASKEN.NS,$11.36 M
+eMudhra,EMUDHRA.NS,$10.52 M
+Hathway,HATHWAY.NS,$10.42 M
+Rupa Company,RUPA.NS,$10.36 M
+Alembic Limited,ALEMBICLTD.NS,$9.92 M
+Cantabil Retail India,CANTABIL.NS,$9.3 M
+Coffee Day Enterprises,COFFEEDAY.NS,$9.26 M
+Dollar Industries,DOLLAR.NS,$9.03 M
+Aptech,APTECHT.NS,$8.93 M
+Foseco India,FOSECOIND.NS,$8.9 M
+Jindal Poly Films,JINDALPOLY.NS,$8.54 M
+Ebixcash India,EBIXFOREX.NS,$8.37 M
+Piramal Enterprises,PEL.NS,$8.08 M
+India Nippon Electricals,INDNIPPON.NS,$8 M
+Apollo Pipes,APOLLOPIPE.NS,$7.64 M
+Sundaram Finance,SUNDARMHLD.NS,$7.6 M
+Kitex Garments,KITEX.NS,$7.51 M
+Balaji Telefilms,BALAJITELE.NS,$7.42 M
+Sterling Tools,STERTOOLS.NS,$7.36 M
+Jay Bharat Maruti,JAYBARMARU.NS,$6.56 M
+NACL Industries,NACLIND.NS,$6.53 M
+Wheels India,WHEELS.NS,$6.52 M
+Wendt India,WENDT.NS,$6.48 M
+IFB Industries,IFBIND.NS,$6.3 M
+Borosil,BORORENEW.NS,$5.94 M
+Rane Brake Lining,RBL.NS,$5.94 M
+Vidhi Specialty Food,VIDHIING.NS,$5.8 M
+Mahindra Logistics,MAHLOG.NS,$5.56 M
+Barbeque Nation Hospitality,BARBEQUE.NS,$5.52 M
+Jio Financial Services,JIOFIN.NS,$5.33 M
+Unitech Group,UNITECH.NS,$4.97 M
+Hester Biosciences,HESTERBIO.NS,$4.9 M
+Kokuyo Camlin,KOKUYOCMLN.NS,$4.86 M
+Avalon Technologies,AVALON.NS,$4.34 M
+Modern Dairies Limited,MODAIRY.BO,$4.06 M
+Nelco,NELCO.NS,$3.95 M
+KIOCL,KIOCL.NS,$3.94 M
+Multi Commodity Exchange,MCX.NS,$3.68 M
+Igarashi Motors India,IGARASHI.NS,$3.01 M
+Hyderabad Industries Limited,HIL.NS,$2.96 M
+Oriental Aromatics,OAL.NS,$2.63 M
+Excel Industries,EXCELINDUS.NS,$2.45 M
+Navkar Corp,NAVKARCORP.NS,$2.42 M
+Milkfood Limited,MLKFOOD.BO,$2.34 M
+Apex Frozen Foods,APEX.NS,$2.06 M
+Bodal Chemicals,BODALCHEM.NS,$1.37 M
+Radio City,RADIOCITY.NS,$1.26 M
+N.B.I. Industrial Finance,NBIFIN.NS,$1.2 M
+Gati,GATI.NS,$0.69 M
+Hindustan Media Ventures,HMVL.NS,$0.43 M
+Quick Heal,QUICKHEAL.NS,$0.3 M
+Mahindra Lifespaces,MAHLIFE.NS,-$0.08 M
+PB Fintech,POLICYBZR.NS,-$0.67 M
+Reliance Communications,RCOM.NS,-$1.08 M
+Jump Networks,JUMPNET.NS,-$1.51 M
+Zomato,ZOMATO.NS,-$1.52 M
+Yatra,YTRA,-$3.35 M
+Asian Granito India,ASIANTILES.NS,-$5.97 M
+Astec Lifesciences,ASTEC.NS,-$8.09 M
+Sunteck Realty,SUNTECK.NS,-$9.59 M
+Gujarat Alkalies and Chemicals,GUJALKALI.NS,-$9.95 M
+Azure Power,AZREF,-$10.34 M
+Hinduja Ventures,NXTDIGITAL.NS,-$10.96 M
+Tejas Networks,TEJASNET.NS,-$13.46 M
+Spencer's Retail,SPENCERS.NS,-$13.99 M
+Mirza International,MIRZAINT.NS,-$15.13 M
+Kellton Tech Solutions,KELLTONTEC.NS,-$15.47 M
+Sequent Scientific,SEQUENT.NS,-$17.8 M
+Inox Wind,INOXWIND.NS,-$17.92 M
+Indian Telephone Industries,ITI.NS,-$19.07 M
+JCI Hitachi India,JCHAC.NS,-$19.57 M
+Indorama Synthetics,INDORAMA.NS,-$19.66 M
+3i Infotech,3IINFOLTD.NS,-$25.11 M
+PVR Cinemas,PVR.NS,-$25.17 M
+Network18,NETWORK18.NS,-$25.85 M
+Prime Focus,PFOCUS.NS,-$27.22 M
+GE Power India,GEPIL.NS,-$30.87 M
+TCNS Clothing,TCNSBRANDS.NS,-$31.21 M
+MEP Infrastructure,MEP.NS,-$36.39 M
+Zee Learn,ZEELEARN.NS,-$36.79 M
+Glenmark Pharmaceuticals,GLENMARK.NS,-$39.05 M
+Alok Industries,ALOKINDS.NS,-$41.62 M
+Delhivery,DELHIVERY.NS,-$42.09 M
+SPARC,SPARC.NS,-$43.99 M
+sterling & wilson solar,SWSOLAR.NS,-$48.09 M
+National Fertilizers,NFL.NS,-$51.46 M
+Omaxe,OMAXE.NS,-$55.59 M
+Rain Industries,RAIN.NS,-$57.08 M
+SpiceJet,SPICEJET.BO,-$58.84 M
+Sanghi Industries,SANGHIIND.NS,-$64.68 M
+Future Supply Chain Solutions,FSC.NS,-$80.91 M
+UPL,UPL.NS,-$85.1 M
+Mahanagar Telephone Nigam,MTNL.NS,-$87.25 M
+Paytm,PAYTM.NS,-$0.13 B
+Reliance Infrastructure,RELINFRA.NS,-$0.13 B
+GTL Infrastructure,GTLINFRA.NS,-$0.15 B
+Dish TV,DISHTV.NS,-$0.23 B
+Tata Steel Long Products,TATASTLLP.NS,-$0.27 B
+RattanIndia Power,RTNPOWER.NS,-$0.27 B
+Future Retail,FRETAIL.NS,-$0.4 B
+Vodafone Idea,IDEA.NS,-$0.64 B
+Srei Infrastructure Finance,SREINFRA.NS,-$0.81 B
