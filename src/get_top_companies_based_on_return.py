@@ -2,10 +2,9 @@ import time
 import pandas as pd 
 from datetime import date
 from src.f_get_stats_for_stock_based_on_y_years_past_data import stock_data_stats_for_years
-from data_loader import loader
-from paths import ticker_symbol_path
+from src.data_loader import ticker_data_loader
 def top_companies_based_on_returns(number_of_companies, number_of_years):
-    df = loader(ticker_symbol_path)
+    df = ticker_data_loader()
     x= date.today()
     company_name = []
     daily_return =[]

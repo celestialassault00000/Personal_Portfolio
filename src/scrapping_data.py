@@ -216,7 +216,7 @@ def scrape_company_data_for_operating_margin(base_url = operating_margin, num_pa
     
 
 
-def combine_csv(folder_path):
+def combine_csv(folder_path= data_directory_scrapped):
     csv_files = [file for file in os.listdir(folder_path) if file.endswith('.csv')]
     merged_df = pd.DataFrame()
     for file in csv_files:
